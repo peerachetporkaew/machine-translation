@@ -95,7 +95,7 @@ def extract_phrase_from_corpus():
 def get_translation_probability(fout):
     phrase_frequency = {}
     phrase_prob = []
-    fp = codecs.open("phrase_out.txt","r").readlines()
+    fp = codecs.open("phrase_out.txt","r",encoding="utf-8").readlines()
 
     #Count Frequency
     for line in fp:

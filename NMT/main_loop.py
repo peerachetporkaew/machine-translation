@@ -275,7 +275,7 @@ def test_one(dictionaries, model, input, use_cuda ):
     th2id,id2th,en2id,id2en = dictionaries
     model.eval() 
     
-    print("INPUT : ", input.strip()) #input = "Thank you for comming by ."
+    print("INPUT : ", input.strip())
 
     src, src_mask = encode_line(input.strip(), th2id)
     src = src.unsqueeze(0)

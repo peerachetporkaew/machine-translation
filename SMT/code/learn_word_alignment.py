@@ -1,4 +1,4 @@
-#git clone https://github.com/odashi/small_parallel_enja
+#git clone https://github.com/odashi/enja
 
 import codecs 
 from collections import defaultdict
@@ -31,13 +31,13 @@ def print_alignment(aln, invert=False, quiet=False):
     return output
 
 
-def load_corpus(path="../corpus/small_parallel_enja/"):
+def load_corpus(path="../corpus/enja/"):
     ja = codecs.open(path + "train.ja",encoding="utf-8").read().splitlines()
     en = codecs.open(path + "train.en",encoding="utf-8").read().splitlines()
 
     return ja,en
 
-def load_test_corpus(path="../corpus/small_parallel_enja/"):
+def load_test_corpus(path="../corpus/enja/"):
     ja = codecs.open(path + "test.ja",encoding="utf-8").read().splitlines()[0:MAX]
     en = codecs.open(path + "test.en",encoding="utf-8").read().splitlines()[0:MAX]
 
@@ -173,7 +173,7 @@ def build_langauge_model():
 def build_stack_decoder():
     #Build Translation Model
     phrase_table = PhraseTable()
-    phrase_data = codecs.open("phrase_prob.txt","r").read().splitlines()
+    phrase_data = codecs.open("phrase_prob.txt","r",encoding="utf-8").read().splitlines()
 
     for phrase in phrase_data:
         src, trg, prob = phrase.split(" ||| ")

@@ -2,7 +2,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-import copy, time
+import copy, time, codecs
 
 import random
 
@@ -62,7 +62,7 @@ def build_dictionary():
     th2id = {}
     id2th = {}
 
-    with open("./dataset/train.ja.vocab.4k", mode='r') as file:
+    with codecs.open("./dataset/train.ja.vocab.4k", mode='r',encoding="utf-8") as file:
         data_th = file.readlines()
 
         th2id["<blank>"] = len(th2id)
@@ -85,7 +85,7 @@ def build_dictionary():
     en2id = {}
     id2en = {}
 
-    with open("./dataset/train.en.vocab.4k", mode='r') as file:
+    with codecs.open("./dataset/train.en.vocab.4k", mode='r',encoding="utf-8") as file:
         data_en = file.readlines()
 
         en2id["<start>"] = len(en2id)
@@ -305,7 +305,7 @@ def test_translation_by_sampling(model):
     model.eval()
     dictionaries = build_dictionary()
 
-    with open("./dataset/test.ja", mode='r') as file:
+    with codecs.open("./dataset/test.ja", mode='r',encoding="utf-8") as file:
         data_th = file.readlines()
     
     random.shuffle(data_th)
@@ -322,10 +322,10 @@ def load_dataset_and_train():
 
 
     print("Load dataset....")
-    with open("./dataset/train.en", mode='r') as file:
+    with codecs.open("./dataset/train.en", mode='r',encoding="utf-8") as file:
         data_en = file.readlines()[:sample_size]
 
-    with open("./dataset/train.ja", mode='r') as file:
+    with codecs.open("./dataset/train.ja", mode='r',encoding="utf-8") as file:
         data_th = file.readlines()[:sample_size]
 
     corpus_en =[]

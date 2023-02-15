@@ -1,4 +1,6 @@
-#git clone https://github.com/odashi/enja
+# https://github.com/peerachetporkaew/machine-translation
+# 
+# git clone https://github.com/odashi/enja
 
 import codecs 
 from collections import defaultdict
@@ -145,13 +147,11 @@ def build_langauge_model():
 
     lm = Lidstone(0.2, ngram_order)
     lm.fit(train_data, vocab_data)
-
-    """
+    
     logprob = log(lm.score("'m",("i",)))
-    print(logprob)
+    print("i 'm ",logprob)
     logprob = log(lm.score("'m",("i","'m")))
-    print(logprob)
-    """
+    print("i 'm 'm",logprob)
 
     #Build LM model for Stack Decoder
     language_prob = defaultdict(lambda: -999.0)
@@ -179,6 +179,17 @@ def build_stack_decoder():
         src, trg, prob = phrase.split(" ||| ")
         prob = float(prob)
         phrase_table.add(tuple(src.split()), tuple(trg.split()), log(prob))
+
+    #ADD UNK using wordlist from testset
+    ja, en = load_test_corpus()
+    wlist = {}
+    for sent in ja:
+        for w in sent.split():
+            wlist[w] = 1
+
+    epsilon = 0.000001
+    for w in wlist:
+        phrase_table.add(tuple([w]), tuple([w]), log(epsilon))
 
     #Build Language Model
     lmprob, lm = build_langauge_model()
@@ -220,3 +231,7 @@ def main_loop():
 
 if __name__ == "__main__":
     evaluate_BLEU()
+    #extract_phrase_from_corpus()
+    #get_translation_probability("phrase_prob.txt")
+    #build_langauge_model()
+    #main_loop()

@@ -1,0 +1,9 @@
+两百
+两百@NUM
+DESC :
+EXAMPLE :
+
+[@NUM] 只狗
+只狗 {0} ตัว
+DESC :
+EXAMPLE :

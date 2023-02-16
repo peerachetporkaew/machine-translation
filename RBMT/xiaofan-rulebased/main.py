@@ -2,9 +2,11 @@ from nltk.parse import CoreNLPParser
 from utils.tree import *
 import jieba
 from phrase_translator import PhraseTranslator
+from utils.MultipleOutputFST_v06 import *
 
 parser = CoreNLPParser('http://localhost:59000')
 
+reorderer = PhraseTranslator("./dictionary/reorder.txt")
 translator = PhraseTranslator("./dictionary/basic.txt")
 
 def parse_chinese(inputText):
@@ -202,14 +204,20 @@ def translate(inputStr):
     trans = translator.translate(out)
     print(trans)
 
+def translate_V2(inputStr):
+    out = jieba.cut(inputStr, cut_all=False)
+    out = " ".join(out)
+    print(out)
+    out = reorderer.translate(out)
+    print("REORDER : ",out)
+    out = reorderer.translate(out)
+    print("REORDER : ",out)
+    trans = translator.translate(out)
+
 if __name__ == "__main__":
-
-
-    #translate("他招手叫我走过去。")
+    parse_chinese("我有两百只狗。")
     
-    #translate("她会说日语和英语。")
-
-    translate("我有两百只狗。")
+    #translate_V2("我有两百只狗。")
 
     #process_reordering("我的两百只白狗。")
     #process_reordering("我的自行车是白色的。")

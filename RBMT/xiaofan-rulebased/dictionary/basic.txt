@@ -8,6 +8,46 @@ I love [@PERSON]
 DESC :
 EXAMPLE :
 
+I
+ฉัน
+DESC :
+EXAMPLE :
+
+[@NUM] [@NOUN]
+{1} {0} $CL[{1}]
+DESC :
+EXAMPLE :
+
+$CL[หนังสือ]
+เล่ม
+DESC :
+EXAMPLE :
+
+$CL[หมา]
+ตัว
+DESC :
+EXAMPLE :
+
+have
+มี
+DESC :
+EXAMPLE :
+
+two
+สอง
+DESC :
+EXAMPLE :
+
+books
+หนังสือ
+DESC :
+EXAMPLE :
+
+两百@NUM
+สองร้อย
+DESC :
+EXAMPLE :
+
 我
 ฉัน
 DESC : 

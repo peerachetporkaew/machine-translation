@@ -14,9 +14,18 @@ class PhraseTranslator():
 
         NED = NEDatabase()
         NEL = []
-        NEL += [NE("อังกฤษ","LOC","England@LOC")]
+        NEL += [NE("England","LOC","ประเทศอังกฤษ")]
         NEL += [NE("football","SPORT","กีฬาฟุตบอล")]
         NEL += [NE("Marry","PERSON","แมรี่")]
+
+        NEL += [NE("two","NUM","สอง")]
+        NEL += [NE("three","NUM","สาม")]
+
+
+        NEL += [NE("books","NOUN","หนังสือ")]
+        NEL += [NE("dogs","NOUN","หมา")]
+        NEL += [NE("cars","NOUN","รถ")]
+
 
         for item in NEL:
             NED.add(item)
@@ -38,5 +47,12 @@ class PhraseTranslator():
 
 if __name__ == "__main__":
     translator = PhraseTranslator("dictionary/basic.txt")
-    translator.translate("I love Marry .")
-    translator.translate("I love football .")
+    #translator.translate("I love Marry .")
+    #translator.translate("I love football .")
+    out = translator.translate("I have two dogs .")
+    print("1st RUN : ",out)
+
+    out = translator.translate(out)
+    print("2nd RUN : ",out)
+
+

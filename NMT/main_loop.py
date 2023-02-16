@@ -1,3 +1,6 @@
+# pip install torch==1.8.1
+# pip install icecream
+
 import numpy as np
 import torch
 import torch.nn as nn
@@ -203,6 +206,11 @@ def run_epoch(data_iter, model, loss_compute, optimizer, epoch=1):
             out = model.forward(batch.src, batch.trg, 
                                 batch.src_mask, batch.trg_mask)
             loss = loss_compute(out, batch.trg_y, batch.ntokens)
+            
+            loss.backward()
+            optimizer.step()
+            optimizer.zero_grad()
+
             total_loss += loss
             total_tokens += batch.ntokens
             tokens += batch.ntokens
@@ -222,9 +230,7 @@ def run_epoch(data_iter, model, loss_compute, optimizer, epoch=1):
             if use_cuda:
                 torch.cuda.empty_cache()
 
-            loss.backward()
-            optimizer.step()
-            optimizer.zero_grad()
+            
 
         except RuntimeError as e:
             if "out of memory" in str(e):
@@ -317,10 +323,10 @@ def test_translation_by_sampling(model):
 
 def load_dataset_and_train():
     global use_cuda
+
+
     max_len = MAX_LEN
     sample_size = 50000
-
-
     print("Load dataset....")
     with codecs.open("./dataset/train.en", mode='r',encoding="utf-8") as file:
         data_en = file.readlines()[:sample_size]

@@ -1,0 +1,9760 @@
+I love [@SPORT]
+ฉัน ชอบ {2}
+DESC :
+EXAMPLE :
+
+I love [@PERSON]
+ฉัน รัก {2}
+DESC :
+EXAMPLE :
+
+我
+ฉัน
+DESC : 
+EXAMPLE : 
+
+件
+ตัว
+DESC : 
+EXAMPLE : 
+
+一
+1
+DESC : 
+EXAMPLE : 
+
+衬衫
+เสื้อเชิ๊ต
+DESC : 
+EXAMPLE : 
+
+红色
+สีแดง
+DESC : 
+EXAMPLE : 
+
+买
+ซื้อ
+DESC : 
+EXAMPLE : 
+
+今天
+วันนี้
+DESC : 
+EXAMPLE :
+
+两百
+สองร้อย
+DESC : 
+EXAMPLE :
+
+$CL(只,狗)
+ตัว
+DESC : 
+EXAMPLE :
+
+ฉัน จะ ไป [@LOC]
+I will go to {3} .
+DESC :
+EXAMPLE :
+
+下午
+ตอนบ่าย
+DESC : 
+EXAMPLE : 
+
+在
+ที่
+DESC : 
+EXAMPLE : 
+
+北京
+ปักกิ่ง
+DESC : 
+EXAMPLE : 
+
+百货公司
+ห้างสรรพสินค้า
+DESC : 
+EXAMPLE : 
+
+自己
+ด้วยตัวเอง
+DESC : 
+EXAMPLE : 
+
+妈妈
+คุณแม่
+DESC : 
+EXAMPLE : 
+
+的
+ของ
+DESC : 
+EXAMPLE : 
+
+看
+ดู/อ่าน
+DESC : 
+EXAMPLE : 
+
+书
+หนังสือ
+DESC : 
+EXAMPLE : 
+
+你
+คุณ
+DESC : 
+EXAMPLE : 
+
+多
+มาก
+DESC : 
+EXAMPLE : 
+
+吃
+กิน
+DESC : 
+EXAMPLE : 
+
+点儿
+หน่อย
+DESC : 
+EXAMPLE : 
+
+要
+อยาก/ต้องการ
+DESC : 
+EXAMPLE : 
+
+双
+คู่
+DESC : 
+EXAMPLE : 
+
+筷子
+ตะเกียบ
+DESC : 
+EXAMPLE : 
+
+谢谢
+ขอบคุณ
+DESC : 
+EXAMPLE : 
+
+茶
+ชา
+DESC : 
+EXAMPLE : 
+
+给
+ให้
+DESC : 
+EXAMPLE : 
+
+帮
+ช่วย
+DESC : 
+EXAMPLE : 
+
+挑
+เลือก
+DESC : 
+EXAMPLE : 
+
+请&给
+ขอ
+DESC : 
+EXAMPLE : 
+
+请&坐
+เชิญ
+DESC : 
+EXAMPLE : 
+
+请&问
+ขอโทษนะครับ/คะ
+DESC : 
+EXAMPLE : 
+
+请
+กรุณา/เชิญ
+DESC : 
+EXAMPLE : 
+
+开
+เปิด
+DESC : 
+EXAMPLE : 
+
+门
+ประตู
+DESC : 
+EXAMPLE : 
+
+短袖
+แขนสั้น
+DESC : 
+EXAMPLE : 
+
+卫生间
+ห้องน้ำ
+DESC : 
+EXAMPLE : 
+
+在&哪儿
+อยู่ที่ไหน
+DESC : 
+EXAMPLE : 
+
+叫
+เรียก
+DESC : 
+EXAMPLE : 
+
+辆
+คัน
+DESC : 
+EXAMPLE : 
+
+出租车
+รถแท็กซี่
+DESC : 
+EXAMPLE : 
+
+酱油
+ซีอิ๊ว
+DESC : 
+EXAMPLE : 
+
+一下儿&一点儿
+หน่อย
+DESC : 
+EXAMPLE : 
+
+坐
+นั่ง
+DESC : 
+EXAMPLE : 
+
+进
+เข้า
+DESC : 
+EXAMPLE : 
+
+衣服
+เสื้อผ้า
+DESC : 
+EXAMPLE : 
+
+请&你
+กรุณา
+DESC : 
+EXAMPLE : 
+
+您
+ท่าน
+DESC : 
+EXAMPLE : 
+
+张
+ใบ
+DESC : 
+EXAMPLE : 
+
+拍
+ถ่าย
+DESC : 
+EXAMPLE : 
+
+照片
+รูปถ่าย
+DESC : 
+EXAMPLE : 
+
+我们
+พวกเรา
+DESC : 
+EXAMPLE : 
+
+洗
+ล้าง
+DESC : 
+EXAMPLE : 
+
+多少&钱
+ราคาเท่าไหร่
+DESC : 
+EXAMPLE : 
+
+卷
+ม้วน
+DESC : 
+EXAMPLE : 
+
+现在
+ตอนนี้
+DESC : 
+EXAMPLE : 
+
+几
+กี่่
+DESC : 
+EXAMPLE : 
+
+点
+โมง
+DESC : 
+EXAMPLE : 
+
+喝
+ดื่ม 
+DESC : 
+EXAMPLE : 
+
+梢 等
+รอสักครู่
+DESC : 
+EXAMPLE : 
+
+办
+ทำ
+DESC : 
+EXAMPLE : 
+
+信用卡
+บัตรเครดิต
+DESC : 
+EXAMPLE : 
+
+换
+แลก
+DESC : 
+EXAMPLE : 
+
+零钱
+เงินทอน
+DESC : 
+EXAMPLE : 
+
+扣子
+กระดุม
+DESC : 
+EXAMPLE : 
+
+这
+นี้
+DESC : 
+EXAMPLE : 
+
+是
+เป็น/คือ
+DESC : 
+EXAMPLE : 
+
+什么
+อะไร
+DESC : 
+EXAMPLE : 
+
+意思
+ความหมาย
+DESC : 
+EXAMPLE : 
+
+哪
+ไหน
+DESC : 
+EXAMPLE : 
+
+附近
+แถวนี้
+DESC : 
+EXAMPLE : 
+
+有
+มี
+DESC : 
+EXAMPLE : 
+
+地铁
+รถไฟใต้ดิน
+DESC : 
+EXAMPLE : 
+
+站
+สถานี
+DESC : 
+EXAMPLE : 
+
+吗
+ไหม
+DESC : 
+EXAMPLE : 
+
+在&吗
+อยู่ไหม
+DESC : 
+EXAMPLE : 
+
+玛丽
+Mary
+DESC : 
+EXAMPLE : 
+
+她
+เธอ
+DESC : 
+EXAMPLE : 
+
+岁
+อายุ
+DESC : 
+EXAMPLE : 
+
+最近
+ช่วงนี้
+DESC : 
+EXAMPLE : 
+
+忙
+ยุ่ง
+DESC : 
+EXAMPLE : 
+
+父母
+คุณพ่อคุณแม่
+DESC : 
+EXAMPLE : 
+
+身体
+สุขภาพ
+DESC : 
+EXAMPLE : 
+
+好
+ดี
+DESC : 
+EXAMPLE : 
+
+几&岁
+อายุเท่าไหร่
+DESC : 
+EXAMPLE : 
+
+贵&姓
+แซ่อะไร
+DESC : 
+EXAMPLE : 
+
+叫&什么&名字
+ชื่ออะไร
+DESC : 
+EXAMPLE : 
+
+王
+หวัง
+DESC : 
+EXAMPLE : 
+
+先生
+คุณ
+DESC : 
+EXAMPLE : 
+
+年纪
+อายุ
+DESC : 
+EXAMPLE : 
+
+多&大&年纪
+อายุเท่าไหร่
+DESC : 
+EXAMPLE : 
+
+今年
+ปีนี้
+DESC : 
+EXAMPLE : 
+
+生日
+วันเกิด
+DESC : 
+EXAMPLE : 
+
+月
+เดือน
+DESC : 
+EXAMPLE : 
+
+号
+วันที่
+DESC : 
+EXAMPLE : 
+
+和
+และ
+DESC : 
+EXAMPLE : 
+
+还&可以&吗
+ใช้ได้ไหม
+DESC : 
+EXAMPLE : 
+
+菜
+กับข้าว
+DESC : 
+EXAMPLE : 
+
+本
+เล่ม
+DESC : 
+EXAMPLE : 
+
+不
+ไม่
+DESC : 
+EXAMPLE : 
+
+呢
+ล่ะ
+DESC : 
+EXAMPLE : 
+
+姐姐
+พี่สาว
+DESC : 
+EXAMPLE : 
+
+姓
+แซ่
+DESC : 
+EXAMPLE : 
+
+想
+อยาก/คิดที่จะ
+DESC : 
+EXAMPLE : 
+
+还
+ยัง
+DESC : 
+EXAMPLE : 
+
+很
+มาก
+DESC : 
+EXAMPLE : 
+
+好看
+ดูดี
+DESC : 
+EXAMPLE : 
+
+饿
+หิว
+DESC : 
+EXAMPLE : 
+
+可以
+สามารถ
+DESC : 
+EXAMPLE : 
+
+式
+ลอง
+DESC : 
+EXAMPLE : 
+
+你们
+พวกคุณ
+DESC : 
+EXAMPLE : 
+
+咖啡
+กาแฟ
+DESC : 
+EXAMPLE : 
+
+在&Verb
+กำลัง
+DESC : 
+EXAMPLE : 
+
+做
+ทำ
+DESC : 
+EXAMPLE : 
+
+怎么样
+เป็นอย่างไรบ้าง/ว่ายังไง 
+DESC : 
+EXAMPLE : 
+
+怎么样
+อย่างไร
+DESC : 
+EXAMPLE : 
+
+去
+ไป
+DESC : 
+EXAMPLE : 
+
+学校
+โรงเรียน
+DESC : 
+EXAMPLE : 
+
+对不起
+ขอโทษครับ/ค่ะ
+DESC : 
+EXAMPLE : 
+
+事
+ธุระ
+DESC : 
+EXAMPLE : 
+
+晚上
+ตอนเย็น
+DESC : 
+EXAMPLE : 
+
+一下
+สักครู่
+DESC : 
+EXAMPLE : 
+
+以后
+หลังจาก
+DESC : 
+EXAMPLE : 
+
+以前
+ก่อน
+DESC : 
+EXAMPLE : 
+
+的时候
+เมื่อ/ขณะที่
+DESC : 
+EXAMPLE : 
+
+饭
+ข้าว
+DESC : 
+EXAMPLE : 
+
+前
+ก่อน
+DESC : 
+EXAMPLE : 
+
+先生
+ก่อน
+DESC : 
+EXAMPLE : 
+
+跟
+กับ
+DESC : 
+EXAMPLE : 
+
+来
+มา
+DESC : 
+EXAMPLE : 
+
+家
+บ้าน
+DESC : 
+EXAMPLE : 
+
+回
+กลับ
+DESC : 
+EXAMPLE : 
+
+几&月&几&号
+เมื่อไหร่
+DESC : 
+EXAMPLE : 
+
+是&什么&意思
+หมายความว่าอะไร
+DESC : 
+EXAMPLE : 
+
+个
+อัน/ตัว
+DESC : 
+EXAMPLE : 
+
+东西
+สิ่งของ
+DESC : 
+EXAMPLE : 
+
+汉字
+ตัวอักษรจีน
+DESC : 
+EXAMPLE : 
+
+清楚
+ชัดเจน
+DESC : 
+EXAMPLE : 
+
+大
+ใหญ่
+DESC : 
+EXAMPLE : 
+
+饱
+อิ่ม
+DESC : 
+EXAMPLE : 
+
+便宜
+ราคาถูก
+DESC : 
+EXAMPLE : 
+
+教
+สอน
+DESC : 
+EXAMPLE : 
+
+汉语
+ภาษาจีน
+DESC : 
+EXAMPLE : 
+
+你&好
+สวัสดีครับ/ค่ะ
+DESC : 
+EXAMPLE : 
+
+会
+จะ/สามารถ
+DESC : 
+EXAMPLE : 
+
+从
+จาก
+DESC : 
+EXAMPLE : 
+
+到
+ถึง
+DESC : 
+EXAMPLE : 
+
+时间
+เวลา
+DESC : 
+EXAMPLE : 
+
+哪儿
+ที่ไหน
+DESC : 
+EXAMPLE : 
+
+谢谢&你
+ขอบคุณครับ/ค่ะ
+DESC : 
+EXAMPLE : 
+
+什么&时候
+เมื่อไหร่
+DESC : 
+EXAMPLE : 
+
+几&月
+เดือนอะไร
+DESC : 
+EXAMPLE : 
+
+几&号
+วันที่เท่าไหร่
+DESC : 
+EXAMPLE : 
+
+近
+ใกล้
+DESC : 
+EXAMPLE : 
+
+真
+จริง
+DESC : 
+EXAMPLE : 
+
+要&多&长&时间
+ใช้เวลานานเท่าไหร่
+DESC : 
+EXAMPLE : 
+
+飞机
+เครื่องบิน
+DESC : 
+EXAMPLE : 
+
+二
+2
+DESC : 
+EXAMPLE : 
+
+三
+3
+DESC : 
+EXAMPLE : 
+
+四
+4
+DESC : 
+EXAMPLE : 
+
+五
+5
+DESC : 
+EXAMPLE : 
+
+六
+6
+DESC : 
+EXAMPLE : 
+
+七
+7
+DESC : 
+EXAMPLE : 
+
+八
+8
+DESC : 
+EXAMPLE : 
+
+九
+9
+DESC : 
+EXAMPLE : 
+
+十
+10
+DESC : 
+EXAMPLE : 
+
+零
+0
+DESC : 
+EXAMPLE : 
+
+两
+2
+DESC : 
+EXAMPLE : 
+
+爱
+รัก
+DESC : 
+EXAMPLE : 
+
+喜欢
+ชอบ
+DESC : 
+EXAMPLE : 
+
+谁
+ใคร
+DESC : 
+EXAMPLE : 
+
+那
+นั้น
+DESC : 
+EXAMPLE : 
+
+星期一
+วันจันทร์
+DESC : 
+EXAMPLE : 
+
+星期二
+วันอังคาร
+DESC : 
+EXAMPLE : 
+
+星期三
+วันพุธ
+DESC : 
+EXAMPLE : 
+
+星期四
+วันพฤหัสบดี
+DESC : 
+EXAMPLE : 
+
+星期五
+วันศุกร์
+DESC : 
+EXAMPLE : 
+
+星期六
+วันเสาร์
+DESC : 
+EXAMPLE : 
+
+星期天
+วันอาทิตย์
+DESC : 
+EXAMPLE : 
+
+一月
+เดือนมกราคม
+DESC : 
+EXAMPLE : 
+
+二月
+เดือนกุมภาพันธ์
+DESC : 
+EXAMPLE : 
+
+三月
+เดือนมีนาคม
+DESC : 
+EXAMPLE : 
+
+四月
+เดือนเมษายน
+DESC : 
+EXAMPLE : 
+
+五月
+เดือนพฤษภาคม
+DESC : 
+EXAMPLE : 
+
+六月
+เดือนมิถุนายน
+DESC : 
+EXAMPLE : 
+
+七月
+เดือนกรกฏาคม
+DESC : 
+EXAMPLE : 
+
+八月
+เดือนสิงหาคม
+DESC : 
+EXAMPLE : 
+
+九月
+เดือนกันยายน
+DESC : 
+EXAMPLE : 
+
+十月
+เดือนตุลาคม
+DESC : 
+EXAMPLE : 
+
+十一月
+เดือนพฤศจิกายน
+DESC : 
+EXAMPLE : 
+
+十二月
+เดือนธันวาคม
+DESC : 
+EXAMPLE : 
+
+月
+เดือน
+DESC : 
+EXAMPLE : 
+
+年
+ปี
+DESC : 
+EXAMPLE : 
+
+号
+วันที่
+DESC : 
+EXAMPLE : 
+
+星期
+สัปดาห์
+DESC : 
+EXAMPLE : 
+
+住&在
+อาศัยอยู่ที่
+DESC : 
+EXAMPLE : 
+
+泰国
+ประเทศไทย
+DESC : 
+EXAMPLE : 
+
+国
+ประเทศ
+DESC : 
+EXAMPLE : 
+
+人
+คน
+DESC : 
+EXAMPLE : 
+
+工作
+ทำงาน
+DESC : 
+EXAMPLE : 
+
+在&哪儿
+อยู่ที่ไหน
+DESC : 
+EXAMPLE : 
+
+谢谢&Noun
+ขอบคุณสำหรับ
+DESC : 
+EXAMPLE : 
+
+告诉
+บอก
+DESC : 
+EXAMPLE : 
+
+吧&？
+ใช่ไหม ?
+DESC : 
+EXAMPLE : 
+
+没
+ไม่
+DESC : 
+EXAMPLE : 
+
+了
+แล้ว
+DESC : 
+EXAMPLE : 
+
+还是
+หรือว่า
+DESC : 
+EXAMPLE : 
+
+可是
+แต่
+DESC : 
+EXAMPLE : 
+
+学习
+เรียน
+DESC : 
+EXAMPLE : 
+
+朋友
+เพื่อน
+DESC : 
+EXAMPLE : 
+
+写
+เขียน
+DESC : 
+EXAMPLE : 
+
+出
+ออก
+DESC : 
+EXAMPLE : 
+
+进
+เข้า
+DESC : 
+EXAMPLE : 
+
+上
+ขึ้น
+DESC : 
+EXAMPLE : 
+
+出&来
+ออกมา
+DESC : 
+EXAMPLE : 
+
+进&来
+เข้ามา
+DESC : 
+EXAMPLE : 
+
+上&来
+ขึ้นมา
+DESC : 
+EXAMPLE : 
+
+下&来
+ลงมา
+DESC : 
+EXAMPLE : 
+
+出&去
+ออกไป
+DESC : 
+EXAMPLE : 
+
+进&去
+เข้าไป
+DESC : 
+EXAMPLE : 
+
+上&去
+ขึ้นไป
+DESC : 
+EXAMPLE : 
+
+下&去
+ลงไป
+DESC : 
+EXAMPLE : 
+
+快
+เร็ว/รีบ
+DESC : 
+EXAMPLE : 
+
+外面
+ข้างนอก
+DESC : 
+EXAMPLE : 
+
+下雨
+ฝนตก
+DESC : 
+EXAMPLE : 
+
+吧
+เถอะ
+DESC : 
+EXAMPLE : 
+
+每天
+ทุกวัน
+DESC : 
+EXAMPLE : 
+
+走
+เดิน
+DESC : 
+EXAMPLE : 
+
+右边
+ทางด้านขวา
+DESC : 
+EXAMPLE : 
+
+楼梯
+บันได
+DESC : 
+EXAMPLE : 
+
+右
+ขวา
+DESC : 
+EXAMPLE : 
+
+左
+ซ้าย
+DESC : 
+EXAMPLE : 
+
+看见
+เห็น
+DESC : 
+EXAMPLE : 
+
+因为
+เพราะ
+DESC : 
+EXAMPLE : 
+
+所以
+ดังนั้น
+DESC : 
+EXAMPLE : 
+
+了&吗
+แล้วหรือยัง
+DESC : 
+EXAMPLE : 
+
+新
+ใหม่
+DESC : 
+EXAMPLE : 
+
+忘记
+ลืม
+DESC : 
+EXAMPLE : 
+
+甜
+หวาน
+DESC : 
+EXAMPLE : 
+
+虽然
+แม้ว่า
+DESC : 
+EXAMPLE : 
+
+但是
+แต่
+DESC : 
+EXAMPLE : 
+
+好吃
+อร่อย
+DESC : 
+EXAMPLE : 
+
+有&一点儿
+ไปหน่อย
+DESC : 
+EXAMPLE : 
+
+应该
+ควร
+DESC : 
+EXAMPLE : 
+
+就
+ก็
+DESC : 
+EXAMPLE : 
+
+毛衣
+เสื้อไหมพรม
+DESC : 
+EXAMPLE : 
+
+错
+เลว
+DESC : 
+EXAMPLE : 
+
+觉得
+คิดว่า
+DESC : 
+EXAMPLE : 
+
+说
+พูด
+DESC : 
+EXAMPLE : 
+
+和
+และ
+DESC : 
+EXAMPLE : 
+
+周末
+วันสุดสัปดาห์
+DESC : 
+EXAMPLE : 
+
+电影
+ภาพยนตร์
+DESC : 
+EXAMPLE : 
+
+面
+ก๋วยเตี๋ยว
+DESC : 
+EXAMPLE : 
+
+昨天
+เมื่อวานนี้
+DESC : 
+EXAMPLE : 
+
+明天
+พรุ่งนี้
+DESC : 
+EXAMPLE : 
+
+还&有
+และ/ยังมี
+DESC : 
+EXAMPLE : 
+
+一起
+ด้วยกัน
+DESC : 
+EXAMPLE : 
+
+水
+น้ำ
+DESC : 
+EXAMPLE : 
+
+杯
+แก้ว
+DESC : 
+EXAMPLE : 
+
+不好意思
+ขอโทษนะคะ/ครับ/เกรงใจ
+DESC : 
+EXAMPLE : 
+
+都
+ทั้งหมด
+DESC : 
+EXAMPLE : 
+
+泰文
+ภาษาไทย
+DESC : 
+EXAMPLE : 
+
+中文
+ภาษาจีน
+DESC : 
+EXAMPLE : 
+
+这些
+เหล่านี้
+DESC : 
+EXAMPLE : 
+
+那些
+เหล่านั้น
+DESC : 
+EXAMPLE : 
+
+新华社
+สำนักข่าวซินหัว
+DESC : 
+EXAMPLE : 
+
+嫁
+แต่งงาน
+DESC : 
+EXAMPLE : 
+
+愿意
+ยินดี/ยินยอม
+DESC : 
+EXAMPLE : 
+
+阿姨
+คุณน้า
+DESC : 
+EXAMPLE : 
+
+老
+แก่
+DESC : 
+EXAMPLE : 
+
+啊
+อ่ะ
+DESC : 
+EXAMPLE : 
+
+他
+เขา
+DESC : 
+EXAMPLE : 
+
+让
+ให้/ทำให้
+DESC : 
+EXAMPLE : 
+
+失眠
+นอนไม่หลับ
+DESC : 
+EXAMPLE : 
+
+支
+ด้าม
+DESC : 
+EXAMPLE : 
+
+笔
+ปากกา
+DESC : 
+EXAMPLE : 
+
+读
+อ่าน
+DESC : 
+EXAMPLE : 
+
+听
+ฟัง
+DESC : 
+EXAMPLE : 
+
+老师
+อาจารย์
+DESC : 
+EXAMPLE : 
+
+大家
+ทุกคน
+DESC : 
+EXAMPLE : 
+
+您&好
+สวัสดี
+DESC : 
+EXAMPLE : 
+
+大家&好
+สวัสดีทุกคน
+DESC : 
+EXAMPLE : 
+
+知道
+รู้
+DESC : 
+EXAMPLE : 
+
+谈
+คุย
+DESC : 
+EXAMPLE : 
+
+路
+ทาง
+DESC : 
+EXAMPLE : 
+
+孩子
+ลูกๆ
+DESC : 
+EXAMPLE : 
+
+自己&人
+คนกันเอง
+DESC : 
+EXAMPLE : 
+
+打&篮球
+เล่นบาสเก็ตบอล
+DESC : 
+EXAMPLE : 
+
+爱好
+สิ่งที่ชื่นชอบ
+DESC : 
+EXAMPLE : 
+
+京剧
+งิ้ว
+DESC : 
+EXAMPLE : 
+
+跳舞
+เต้นรำ
+DESC : 
+EXAMPLE : 
+
+唱
+ร้อง
+DESC : 
+EXAMPLE : 
+
+学
+เรียน
+DESC : 
+EXAMPLE : 
+
+歌
+เพลง
+DESC : 
+EXAMPLE : 
+
+玩
+เล่น
+DESC : 
+EXAMPLE : 
+
+游戏
+เกมส์
+DESC : 
+EXAMPLE : 
+
+去&哪儿&玩
+ไปเที่ยวที่ไหน
+DESC : 
+EXAMPLE : 
+
+电脑
+คอมพิวเตอร์
+DESC : 
+EXAMPLE : 
+
+感到
+รู้สึก
+DESC : 
+EXAMPLE : 
+
+非常
+เหลือเกิน
+DESC : 
+EXAMPLE : 
+
+累
+เหนื่อย
+DESC : 
+EXAMPLE : 
+
+出&去&玩
+ออกไปเที่ยว
+DESC : 
+EXAMPLE : 
+
+下&课
+เลิกเรียน
+DESC : 
+EXAMPLE : 
+
+他们
+พวกเขา
+DESC : 
+EXAMPLE : 
+
+她们
+พวกเธอ
+DESC : 
+EXAMPLE : 
+
+业余&时间
+เวลาว่าง
+DESC : 
+EXAMPLE : 
+
+书法
+พู่กันจีน
+DESC : 
+EXAMPLE : 
+
+派
+ส่ง
+DESC : 
+EXAMPLE : 
+
+高兴
+ดีใจ
+DESC : 
+EXAMPLE : 
+
+公司
+บริษัท
+DESC : 
+EXAMPLE : 
+
+中国
+ประเทศจีน
+DESC : 
+EXAMPLE : 
+
+认识
+ได้รู้จัก
+DESC : 
+EXAMPLE : 
+
+半&天
+ครึ่งวัน
+DESC : 
+EXAMPLE : 
+
+等
+รอ
+DESC : 
+EXAMPLE : 
+
+早上
+ตอนเช้า
+DESC : 
+EXAMPLE : 
+
+半
+ครึ่ง
+DESC : 
+EXAMPLE : 
+
+起床
+ตื่นนอน
+DESC : 
+EXAMPLE : 
+
+上&课
+เข้าเรียน
+DESC : 
+EXAMPLE : 
+
+教室
+ห้องเรียน
+DESC : 
+EXAMPLE : 
+
+洗澡
+อาบน้ำ
+DESC : 
+EXAMPLE : 
+
+练习
+แบบฝึกหัด
+DESC : 
+EXAMPLE : 
+
+然后
+หลังจากนั้น
+DESC : 
+EXAMPLE : 
+
+电视
+โทรทัศน์
+DESC : 
+EXAMPLE : 
+
+睡觉
+นอน
+DESC : 
+EXAMPLE : 
+
+爬
+ปีน
+DESC : 
+EXAMPLE : 
+
+大学
+มหาวิทยาลัย
+DESC : 
+EXAMPLE : 
+
+还&没&有
+ยังไม่ได้
+DESC : 
+EXAMPLE : 
+
+上&车
+ขึ้นรถ
+DESC : 
+EXAMPLE : 
+
+下&车
+ลงรถ
+DESC : 
+EXAMPLE : 
+
+安静
+เงียบ
+DESC : 
+EXAMPLE : 
+
+干净
+สะอาด
+DESC : 
+EXAMPLE : 
+
+箱子
+กล่อง
+DESC : 
+EXAMPLE : 
+
+小
+เล็ก
+DESC : 
+EXAMPLE : 
+
+旧
+เก่า
+DESC : 
+EXAMPLE : 
+
+银行
+ธนาคาร
+DESC : 
+EXAMPLE : 
+
+取
+ถอน
+DESC : 
+EXAMPLE : 
+
+钱
+เงิน
+DESC : 
+EXAMPLE : 
+
+短
+สั้น
+DESC : 
+EXAMPLE : 
+
+长
+ยาว
+DESC : 
+EXAMPLE : 
+
+颜色
+สี
+DESC : 
+EXAMPLE : 
+
+深
+เข้ม
+DESC : 
+EXAMPLE : 
+
+浅
+อ่อน
+DESC : 
+EXAMPLE : 
+
+试
+ลอง
+DESC : 
+EXAMPLE : 
+
+胖
+อ้วน
+DESC : 
+EXAMPLE : 
+
+正
+กำลัง
+DESC : 
+EXAMPLE : 
+
+正在
+กำลัง
+DESC : 
+EXAMPLE : 
+
+合适
+พอเหมาะ
+DESC : 
+EXAMPLE : 
+
+也
+ก็
+DESC : 
+EXAMPLE : 
+
+邮局
+ไปรษณีย์
+DESC : 
+EXAMPLE : 
+
+寄
+ส่ง
+DESC : 
+EXAMPLE : 
+
+包裹
+พัสดุ
+DESC : 
+EXAMPLE : 
+
+替
+แทน
+DESC : 
+EXAMPLE : 
+
+绿色
+สีเขียว
+DESC : 
+EXAMPLE : 
+
+车
+รถ
+DESC : 
+EXAMPLE : 
+
+问
+ุถาม
+DESC : 
+EXAMPLE : 
+
+一一对应
+ฟังก์ชัน 1-1 แบบทั่วถึง
+DESC : 
+EXAMPLE : 
+
+一下子
+ทันใดนั้น
+DESC : 
+EXAMPLE : 
+
+一下儿
+ประเดี๋ยว
+DESC : 
+EXAMPLE : 
+
+自立
+พึ่งตัวเอง
+DESC : 
+EXAMPLE : 
+
+一对
+เป็นคู่
+DESC : 
+EXAMPLE : 
+
+一小时以后
+หนึ่งชั่วโมงให้หลัง
+DESC : 
+EXAMPLE : 
+
+一小部分
+ส่วนเล็กๆ
+DESC : 
+EXAMPLE : 
+
+一年生
+ประจำปี
+DESC : 
+EXAMPLE : 
+
+不易之论
+ความจริงที่ไม่อาจเปลี่ยนแปลงได้
+DESC : 
+EXAMPLE : 
+
+不是味儿
+แปลก
+DESC : 
+EXAMPLE : 
+
+不时之需
+เวลาที่จำเป็น
+DESC : 
+EXAMPLE : 
+
+不智
+ไม่ฉลาด
+DESC : 
+EXAMPLE : 
+
+不暇
+ไม่มีเวลา
+DESC : 
+EXAMPLE : 
+
+心眼儿
+จิตใจ
+DESC : 
+EXAMPLE : 
+
+不服水土
+ผิดดินฟ้าอากาศ
+DESC : 
+EXAMPLE : 
+
+不期然而然
+นึกไม่ถึงว่าเรื่องจะเป็นเช่นนี้
+DESC : 
+EXAMPLE : 
+
+不期而遇
+พบกันโดยบังเอิญ
+DESC : 
+EXAMPLE : 
+
+不朽的
+ที่เป็นอมตะ
+DESC : 
+EXAMPLE : 
+
+不欢而散
+พูดจาไม่ลงรอยกัน
+DESC : 
+EXAMPLE : 
+
+不止
+ไม่หยุด
+DESC : 
+EXAMPLE : 
+
+不正常
+ผิดปกติ
+DESC : 
+EXAMPLE : 
+
+不死心
+ยังตัดใจไม่ได้
+DESC : 
+EXAMPLE : 
+
+不比
+แตกต่างกับ
+DESC : 
+EXAMPLE : 
+
+不毛之地
+พื้นที่ที่แห้งแล้ง
+DESC : 
+EXAMPLE : 
+
+不求甚解
+ทำความเข้าใจให้รู้อย่างคร่าวๆ
+DESC : 
+EXAMPLE : 
+
+不法
+ผิดกฎหมาย
+DESC : 
+EXAMPLE : 
+
+不注意
+ไม่ระมัดระวัง
+DESC : 
+EXAMPLE : 
+
+不测
+คาดคิดไม่ถึง
+DESC : 
+EXAMPLE : 
+
+不满
+ไม่พอใจ
+DESC : 
+EXAMPLE : 
+
+不济事
+ใช้ประโยชน์อะไรไม่ได้
+DESC : 
+EXAMPLE : 
+
+不为已甚
+ไม่ทำเกินกว่าเหตุ
+DESC : 
+EXAMPLE : 
+
+不无小补
+พอจะมีผลดีอยู่บ้าง
+DESC : 
+EXAMPLE : 
+
+不然的话
+ถ้าไม่อย่างนั้น
+DESC : 
+EXAMPLE : 
+
+不爽
+ไม่สบายใจ
+DESC : 
+EXAMPLE : 
+
+不特
+ไม่เพียงแต่......เท่านั้น
+DESC : 
+EXAMPLE : 
+
+不独
+ไม่เพียงแต่
+DESC : 
+EXAMPLE : 
+
+不理想
+ไม่มีความคิดเห็น
+DESC : 
+EXAMPLE : 
+
+不甘
+ไม่ยอม
+DESC : 
+EXAMPLE : 
+
+不用谢
+ไม่ต้องเกรงใจ
+DESC : 
+EXAMPLE : 
+
+不由得
+จะต้องอย่างแน่นอน
+DESC : 
+EXAMPLE : 
+
+不痛不痒
+ใช้เปรียบกับคำพูดหรือการกระทำที่ผิวเผินซึ่งไม่สามารถเข้าถึงต้นตอของปัญหาที่แท้จริงได้
+DESC : 
+EXAMPLE : 
+
+不相上下
+พอๆกัน
+DESC : 
+EXAMPLE : 
+
+不相容
+ไม่ลงรอยกัน
+DESC : 
+EXAMPLE : 
+
+不相干
+ไม่เกี่ยวข้องกัน
+DESC : 
+EXAMPLE : 
+
+不相符
+ไม่ตรงกัน
+DESC : 
+EXAMPLE : 
+
+不省人事
+สลบไม่ได้สติ
+DESC : 
+EXAMPLE : 
+
+想法
+ความคิด
+DESC : 
+EXAMPLE : 
+
+不知不觉
+ไม่รู้
+DESC : 
+EXAMPLE : 
+
+不知何故
+ด้วยเหตุใดเหตุหนึ่ง
+DESC : 
+EXAMPLE : 
+
+不知所云
+ไม่รู้ว่าจะพูดอะไรดี
+DESC : 
+EXAMPLE : 
+
+不知所措
+ไม่รู้จะทำอย่างไรดี
+DESC : 
+EXAMPLE : 
+
+不知死活
+รนหาที่ตาย
+DESC : 
+EXAMPLE : 
+
+不碎玻璃
+กระจกนิรภัย
+DESC : 
+EXAMPLE : 
+
+不祥
+อัปมงคล
+DESC : 
+EXAMPLE : 
+
+不禁
+อดไม่ได้ที่จะ
+DESC : 
+EXAMPLE : 
+
+不稂不莠
+ไม่เป็นโล้เป็นพาย
+DESC : 
+EXAMPLE : 
+
+不稳平衡
+จุดสมดุลที่ไม่มั่นคง
+DESC : 
+EXAMPLE : 
+
+不稳定气流
+กระแสอากาศที่ไม่คงที่
+DESC : 
+EXAMPLE : 
+
+不符
+ไม่ตรงกัน
+DESC : 
+EXAMPLE : 
+
+不等式
+วิธีการคำนวณปริมาณที่ไม่เท่ากัน
+DESC : 
+EXAMPLE : 
+
+不管
+ไม่ว่าจะ
+DESC : 
+EXAMPLE : 
+
+不简单
+ไม่ง่าย
+DESC : 
+EXAMPLE : 
+
+不约而同
+พร้อมกันโดยมิได้นัดหมายมาก่อน
+DESC : 
+EXAMPLE : 
+
+不结果
+ไร้ประโยชน์
+DESC : 
+EXAMPLE : 
+
+不结盟
+การวางตัวเป็นกลาง
+DESC : 
+EXAMPLE : 
+
+不绝如缕
+ล่อแหลมมาก
+DESC : 
+EXAMPLE : 
+
+不经一事不长一智
+ไม่ผ่านเหตุการณ์มาก็ไม่เกิดปัญญา(ในเรื่องนั้นๆ)
+DESC : 
+EXAMPLE : 
+
+不经之谈
+คำพูดที่ไม่มีมูล
+DESC : 
+EXAMPLE : 
+
+不经意
+ไม่สนใจ
+DESC : 
+EXAMPLE : 
+
+不置可否 
+ไม่พูดสักคำ
+DESC : 
+EXAMPLE : 
+
+不羁
+ไม่ถูกบังคับ
+DESC : 
+EXAMPLE : 
+
+不义之财
+เงินที่ได้มาโดยมิชอบ
+DESC : 
+EXAMPLE : 
+
+不翼而飞
+ไม่มีปีกก็สามารถบินได้
+DESC : 
+EXAMPLE : 
+
+不耐烦
+ความใจร้อน
+DESC : 
+EXAMPLE : 
+
+不闻不问
+ทำเป็นไม่รู้ไม่เห็นกับเรื่องราวที่เกี่ยวข้อง
+DESC : 
+EXAMPLE : 
+
+不肖
+ความประพฤติไม่ดี
+DESC : 
+EXAMPLE : 
+
+不育症
+ขาดแคลน
+DESC : 
+EXAMPLE : 
+
+不能抵抗
+ไม่สามารถต่อสู้ได้
+DESC : 
+EXAMPLE : 
+
+不胫而走
+ไม่มีเท้าก็สามารถวิ่งได้
+DESC : 
+EXAMPLE : 
+
+不自然
+ไม่เป็นไปตามธรรมชาติ
+DESC : 
+EXAMPLE : 
+
+不自量
+ไม่รู้จักประมาณตน
+DESC : 
+EXAMPLE : 
+
+不兴
+ล้าสมัย
+DESC : 
+EXAMPLE : 
+
+不良
+ไม่ดี
+DESC : 
+EXAMPLE : 
+
+不苟
+รอบคอบ
+DESC : 
+EXAMPLE : 
+
+不莱梅
+เบรเมน
+DESC : 
+EXAMPLE : 
+
+不落窠臼
+ไม่มีรูปแบบตายตัว
+DESC : 
+EXAMPLE : 
+
+不着边际
+ไม่เกี่ยวข้อง
+DESC : 
+EXAMPLE : 
+
+不虚此行
+การเดินทางครั้งนี้ไม่สูญเปล่า
+DESC : 
+EXAMPLE : 
+
+不虞
+คาดไม่ถึง
+DESC : 
+EXAMPLE : 
+
+不行了
+ไม่ดี
+DESC : 
+EXAMPLE : 
+
+相比
+เปรียบเทียบ
+DESC : 
+EXAMPLE : 
+
+不要紧
+ไม่เป็นไร
+DESC : 
+EXAMPLE : 
+
+不要脸
+หน้าด้าน
+DESC : 
+EXAMPLE : 
+
+不见了
+หายไปแล้ว
+DESC : 
+EXAMPLE : 
+
+不见得
+ไม่น่าจะเป็นไปได้
+DESC : 
+EXAMPLE : 
+
+不见棺材不落泪
+ไม่เห็นโลงศพไม่หลั่งน้ำตา
+DESC : 
+EXAMPLE : 
+
+不见经传
+ไม่มีชื่อเสียง
+DESC : 
+EXAMPLE : 
+
+不规则
+รูปแบบไม่มีกฎเกณฑ์ที่แน่นอน
+DESC : 
+EXAMPLE : 
+
+不觉察
+ไม่ได้สังเกต
+DESC : 
+EXAMPLE : 
+
+不解
+ไม่เข้าใจ
+DESC : 
+EXAMPLE : 
+
+不言而喻
+เหตุผลปรากฏให้เห็นอย่างชัดแจ้ง
+DESC : 
+EXAMPLE : 
+
+不计其数
+จำนวนมากจนนับไม่ไหว
+DESC : 
+EXAMPLE : 
+
+不记名投票
+การลงคะแนนเลือกแบบที่เป็นความลับ
+DESC : 
+EXAMPLE : 
+
+不许
+ไม่อนุญาต
+DESC : 
+EXAMPLE : 
+
+不详
+ไม่ละเอียด
+DESC : 
+EXAMPLE : 
+
+不调和
+ไม่เข้ากัน
+DESC : 
+EXAMPLE : 
+
+不论
+ไม่ว่าจะ
+DESC : 
+EXAMPLE : 
+
+不讳
+ไม่ปิดบัง
+DESC : 
+EXAMPLE : 
+
+不谋而合
+ความเห็นตรงกันโดยบังเอิญ
+DESC : 
+EXAMPLE : 
+
+不谢
+ไม่ต้องขอบคุณหรอก
+DESC : 
+EXAMPLE : 
+
+不识抬举
+ไม่รู้ว่าเป็นการให้เกียรติ
+DESC : 
+EXAMPLE : 
+
+不识时务
+ไม่รู้จักกาลเทศะ
+DESC : 
+EXAMPLE : 
+
+不变资本
+ทุนไม่เปลี่ยนแปลง
+DESC : 
+EXAMPLE : 
+
+不赀
+ไม่จำกัด
+DESC : 
+EXAMPLE : 
+
+不赖
+ดี
+DESC : 
+EXAMPLE : 
+
+不赞一词
+สงบปากสงบคำ
+DESC : 
+EXAMPLE : 
+
+不赞成
+ความไม่เห็นด้วย
+DESC : 
+EXAMPLE : 
+
+不足为训
+ไม่พอที่จะถือเป็นอุทาหรณ์
+DESC : 
+EXAMPLE : 
+
+不轨
+ไม่ทำตามกฏหมาย
+DESC : 
+EXAMPLE : 
+
+不近人情
+ไม่เห็นแก่หน้าใคร
+DESC : 
+EXAMPLE : 
+
+不迭
+ไม่ทัน
+DESC : 
+EXAMPLE : 
+
+不透明
+ทึบแสง
+DESC : 
+EXAMPLE : 
+
+不透水
+น้ำซึมไม่เข้า
+DESC : 
+EXAMPLE : 
+
+不通
+ติดขัด
+DESC : 
+EXAMPLE : 
+
+不速之客
+แขกที่ไม่ได้รับเชิญ
+DESC : 
+EXAMPLE : 
+
+不遂
+ไม่สมปรารถนา
+DESC : 
+EXAMPLE : 
+
+不过意
+รู้สึกเสียใจ
+DESC : 
+EXAMPLE : 
+
+不道德
+ผิดศีลธรรม
+DESC : 
+EXAMPLE : 
+
+不违农时
+อย่าละเมิดฤดูกาลเพาะปลูก
+DESC : 
+EXAMPLE : 
+
+不逊
+ไม่มีมารยาท
+DESC : 
+EXAMPLE : 
+
+不重要
+ไม่สำคัญ
+DESC : 
+EXAMPLE : 
+
+不重视
+ขาดความสนใจ
+DESC : 
+EXAMPLE : 
+
+不错
+ถูก
+DESC : 
+EXAMPLE : 
+
+不锈钢
+เหล็กสเตนเลส
+DESC : 
+EXAMPLE : 
+
+不随意肌
+กล้ามเนื้อที่ไม่เกร็งมากจนเกินไปตามความประสงค์
+DESC : 
+EXAMPLE : 
+
+不雅观
+ไม่สุภาพเรียบร้อย
+DESC : 
+EXAMPLE : 
+
+不灵
+ไม่สำเร็จ
+DESC : 
+EXAMPLE : 
+
+不顾
+ไม่กลัว
+DESC : 
+EXAMPLE : 
+
+不顾一切
+ไม่คำนึงถึงอะไรทั้งสิ้น
+DESC : 
+EXAMPLE : 
+
+不首先使用
+ห้ามใช้ก่อนเป็นอันดับแรก
+DESC : 
+EXAMPLE : 
+
+不齿
+ไม่ยินดีที่จะกล่าวถึง
+DESC : 
+EXAMPLE : 
+
+想得美
+คิดในด้านดีเกินไป
+DESC : 
+EXAMPLE : 
+
+十二支
+จักรราศี
+DESC : 
+EXAMPLE : 
+
+绝不
+ไม่...แม้แต่น้อย
+DESC : 
+EXAMPLE : 
+
+享名
+มีชื่อเสียงโด่งดัง
+DESC : 
+EXAMPLE : 
+
+世人
+บุคคลโดยทั่วไป
+DESC : 
+EXAMPLE : 
+
+世俗
+ประเพณีนิยมธรรมดา
+DESC : 
+EXAMPLE : 
+
+世袭
+สืบช่วงตำแหน่งจากบรรพบุรุษ
+DESC : 
+EXAMPLE : 
+
+天干
+แกนฟ้า
+DESC : 
+EXAMPLE : 
+
+丙酮
+สารประกอบเคมีอะซีโตน
+DESC : 
+EXAMPLE : 
+
+丞
+ผู้ช่วย
+DESC : 
+EXAMPLE : 
+
+丢下
+ละทิ้ง
+DESC : 
+EXAMPLE : 
+
+丢丑
+ปล่อยไก่
+DESC : 
+EXAMPLE : 
+
+丢人
+เสียหน้า
+DESC : 
+EXAMPLE : 
+
+丢失
+ตกหายไป
+DESC : 
+EXAMPLE : 
+
+丢掉
+ตกหายไป
+DESC : 
+EXAMPLE : 
+
+丢弃
+ทิ้ง
+DESC : 
+EXAMPLE : 
+
+丢脸
+เสียหน้า
+DESC : 
+EXAMPLE : 
+
+両
+สอง
+DESC : 
+EXAMPLE : 
+
+并且
+พร้อมทั้ง
+DESC : 
+EXAMPLE : 
+
+并立
+ดำรงอยู่ร่วมกัน
+DESC : 
+EXAMPLE : 
+
+丫
+ง่าม
+DESC : 
+EXAMPLE : 
+
+中国画
+ภาพวาดจีน
+DESC : 
+EXAMPLE : 
+
+中国人民解放军空军
+ทหารอากาศกองกำลังปลดปล่อยประชาชนจีน
+DESC : 
+EXAMPLE : 
+
+中国人民银行
+ธนาคารแห่งประชาชนจีน
+DESC : 
+EXAMPLE : 
+
+中国人民大学
+จง กั๋ว เหยิน หมิง ต้า เสวีย (มหาวิทยาลัยประชาชนจีน)
+DESC : 
+EXAMPLE : 
+
+中国人民武装警察部队
+ตำรวจแห่งกองกำลังประชาชนจีน
+DESC : 
+EXAMPLE : 
+
+中国人民解放军海军
+ทหารเรือกองกำลังปลดปล่อยประชาชนจีน
+DESC : 
+EXAMPLE : 
+
+中国古代四大美女
+ยอดสี่สาวงามในสมัยจีนโบราณ
+DESC : 
+EXAMPLE : 
+
+中国大陆
+ประเทศจีน
+DESC : 
+EXAMPLE : 
+
+中国日报
+จงกั๋วยื่อเป้า
+DESC : 
+EXAMPLE : 
+
+中国时报
+จงกั๋วสือเป้า
+DESC : 
+EXAMPLE : 
+
+中国海
+ทะเลจีน
+DESC : 
+EXAMPLE : 
+
+中国产
+ผลิตจากประเทศจีน
+DESC : 
+EXAMPLE : 
+
+中国菜
+อาหารจีน
+DESC : 
+EXAMPLE : 
+
+中国制造
+ผลิตจากประเทศจีน
+DESC : 
+EXAMPLE : 
+
+中国话
+ภาษาจีน
+DESC : 
+EXAMPLE : 
+
+中国银行
+ธนาคารแห่งชาติของประเทศจีน
+DESC : 
+EXAMPLE : 
+
+央行
+ธนาคารกลางประเทศจีน
+DESC : 
+EXAMPLE : 
+
+四书
+จตุรบรรณ
+DESC : 
+EXAMPLE : 
+
+向来
+เป็นเช่นนี้มาเป็นเวลานานแล้ว
+DESC : 
+EXAMPLE : 
+
+中东国家
+ประเทศในแถบตะวันออกกลาง
+DESC : 
+EXAMPLE : 
+
+中秋节
+เทศกาลไหว้พระจันทร์
+DESC : 
+EXAMPLE : 
+
+一打
+หนึ่งโหล
+DESC : 
+EXAMPLE : 
+
+一世
+ชั่วชีวิต
+DESC : 
+EXAMPLE : 
+
+一些
+บางส่วน
+DESC : 
+EXAMPLE : 
+
+一时
+ชั่วระยะเวลาหนึ่ง
+DESC : 
+EXAMPLE : 
+
+一步
+หนึ่งก้าว
+DESC : 
+EXAMPLE : 
+
+一生
+ชั่วชีวิต
+DESC : 
+EXAMPLE : 
+
+一生一世
+ตลอดชีวิต
+DESC : 
+EXAMPLE : 
+
+一直
+ตลอดมา
+DESC : 
+EXAMPLE : 
+
+一篇
+เอนเอียงไปข้างหน้า
+DESC : 
+EXAMPLE : 
+
+一丝不挂
+คนตัวเปล่าเล่าเปลือย
+DESC : 
+EXAMPLE : 
+
+一声
+เสียง
+DESC : 
+EXAMPLE : 
+
+相承
+สืบทอดต่อกันมา
+DESC : 
+EXAMPLE : 
+
+一般
+ทั่วไป
+DESC : 
+EXAMPLE : 
+
+一行
+ทั้งกลุ่ม
+DESC : 
+EXAMPLE : 
+
+中华民国
+สาธารณรัฐประชาชนจีน
+DESC : 
+EXAMPLE : 
+
+丰田
+โตโยต้า
+DESC : 
+EXAMPLE : 
+
+串供
+สมคบกันให้ความเท็จ
+DESC : 
+EXAMPLE : 
+
+丸
+ยาเม็ด
+DESC : 
+EXAMPLE : 
+
+丹寨
+อำเภอตานจ้าย
+DESC : 
+EXAMPLE : 
+
+丹参
+ชื่อยาสมุนไพรชนิดหนึ่งของจีน
+DESC : 
+EXAMPLE : 
+
+丹尼斯
+เดนนิส
+DESC : 
+EXAMPLE : 
+
+丹巴
+ตันปา
+DESC : 
+EXAMPLE : 
+
+丹心
+จิตใจอันจงรักภักดี
+DESC : 
+EXAMPLE : 
+
+丹方
+ตำรายาพื้นเมือง
+DESC : 
+EXAMPLE : 
+
+丹东
+ตันตง เมืองในเหลียวหนิง
+DESC : 
+EXAMPLE : 
+
+丹桂
+ดอกตันเกย
+DESC : 
+EXAMPLE : 
+
+丹毒
+โรคไฟลามทุ่ง
+DESC : 
+EXAMPLE : 
+
+丹江口
+ตันเจียงโข่ว
+DESC : 
+EXAMPLE : 
+
+丹田
+จุดเลือดลม
+DESC : 
+EXAMPLE : 
+
+丹砂
+ชาด
+DESC : 
+EXAMPLE : 
+
+丹阳
+เมืองตานหยาง
+DESC : 
+EXAMPLE : 
+
+丹青
+ภาพวาด
+DESC : 
+EXAMPLE : 
+
+丹凤
+ตันเฟิ้ง
+DESC : 
+EXAMPLE : 
+
+丹麦
+เดนมาร์ค
+DESC : 
+EXAMPLE : 
+
+主义
+ลัทธิ
+DESC : 
+EXAMPLE : 
+
+主人
+เจ้าภาพ
+DESC : 
+EXAMPLE : 
+
+主动
+เชิงรุก
+DESC : 
+EXAMPLE : 
+
+主妇
+แม่บ้าน
+DESC : 
+EXAMPLE : 
+
+主宰
+บงการ
+DESC : 
+EXAMPLE : 
+
+主导
+หลักและน้าวนำ
+DESC : 
+EXAMPLE : 
+
+主席
+ประธาน
+DESC : 
+EXAMPLE : 
+
+主干
+แกนนำ
+DESC : 
+EXAMPLE : 
+
+主张
+ความเห็น
+DESC : 
+EXAMPLE : 
+
+主意
+ข้อคิดเห็น
+DESC : 
+EXAMPLE : 
+
+主持
+จัดการ
+DESC : 
+EXAMPLE : 
+
+主权
+อธิปไตย
+DESC : 
+EXAMPLE : 
+
+主流
+กระแสสำคัญ
+DESC : 
+EXAMPLE : 
+
+主管
+รับผิดชอบควบคุม
+DESC : 
+EXAMPLE : 
+
+主编
+ภาระหน้าที่ในการเป็นหัวหน้ากองบรรณาธิการ
+DESC : 
+EXAMPLE : 
+
+主要
+สำคัญ
+DESC : 
+EXAMPLE : 
+
+主角
+ตัวแสดงนำ
+DESC : 
+EXAMPLE : 
+
+主语
+ประธาน
+DESC : 
+EXAMPLE : 
+
+主办
+เปิดดำเนินการ
+DESC : 
+EXAMPLE : 
+
+主题
+เนื้อหาสำคัญ
+DESC : 
+EXAMPLE : 
+
+主食
+อาหารหลัก
+DESC : 
+EXAMPLE : 
+
+乃至
+แม้แต่
+DESC : 
+EXAMPLE : 
+
+乃是
+ก็คือ
+DESC : 
+EXAMPLE : 
+
+乃东
+อำเภอหน่ายตง
+DESC : 
+EXAMPLE : 
+
+之前
+ก่อนหน้านี้
+DESC : 
+EXAMPLE : 
+
+乎
+แสดงความสงสัย
+DESC : 
+EXAMPLE : 
+
+乏味
+ไม่มีรสชาติ
+DESC : 
+EXAMPLE : 
+
+乓
+เสียงระเบิด
+DESC : 
+EXAMPLE : 
+
+乖
+ไม่ดื้อ
+DESC : 
+EXAMPLE : 
+
+乘坐
+ขี่
+DESC : 
+EXAMPLE : 
+
+乘务员
+พนักงานบริการบนขบวนรถไฟ
+DESC : 
+EXAMPLE : 
+
+乘客
+ผู้โดยสาร
+DESC : 
+EXAMPLE : 
+
+乘法
+วิธีคูณ
+DESC : 
+EXAMPLE : 
+
+乘隙
+ฉกฉวยจังหวะที่เผลอ
+DESC : 
+EXAMPLE : 
+
+乙烯
+ก๊าซไวไฟชนิดหนึ่ง
+DESC : 
+EXAMPLE : 
+
+乙醇
+เอธิลอัลกอฮอล์
+DESC : 
+EXAMPLE : 
+
+四大佛教名山
+จตุรมหาพุทธาบรรพต
+DESC : 
+EXAMPLE : 
+
+乞求
+ขอร้อง
+DESC : 
+EXAMPLE : 
+
+乞讨
+ขอทาน
+DESC : 
+EXAMPLE : 
+
+除了
+ไม่นับรวมอยู่ในนั้น
+DESC : 
+EXAMPLE : 
+
+乩
+การเข้าทรงประคองไม้เขียนคำทำนายทายทัก
+DESC : 
+EXAMPLE : 
+
+乳罩
+เสื้อชั้นในของสตรี
+DESC : 
+EXAMPLE : 
+
+乳山
+เมืองหรู่ซาน
+DESC : 
+EXAMPLE : 
+
+乳源瑶族自治县
+เขตปกครองตนเองชนเผ่าหรู่ที่หยวนเหยา
+DESC : 
+EXAMPLE : 
+
+乳白色
+น้ำนม
+DESC : 
+EXAMPLE : 
+
+乳酸菌
+แลกโตบาสิลลัส
+DESC : 
+EXAMPLE : 
+
+乳头
+หัวนม
+DESC : 
+EXAMPLE : 
+
+干净
+สะอาด
+DESC : 
+EXAMPLE : 
+
+杨贵妃
+หยางกุ้ยเฟย
+DESC : 
+EXAMPLE : 
+
+乱七八糟
+สับสนวุ่นวาย
+DESC : 
+EXAMPLE : 
+
+乱作决定
+การตัดสินใจส่งเดช
+DESC : 
+EXAMPLE : 
+
+乱吃
+การกินส่งเดช
+DESC : 
+EXAMPLE : 
+
+乱写
+การเขียนส่งเดช
+DESC : 
+EXAMPLE : 
+
+乱说
+การพูดส่งเดช
+DESC : 
+EXAMPLE : 
+
+乱跳
+กระโดดไปมา
+DESC : 
+EXAMPLE : 
+
+四国
+เกาะชิโกกุ
+DESC : 
+EXAMPLE : 
+
+想入非非
+คิดเหลวไหลเพ้อฝัน
+DESC : 
+EXAMPLE : 
+
+事先
+ก่อนเหตุการณ์
+DESC : 
+EXAMPLE : 
+
+事儿
+เรื่องราว
+DESC : 
+EXAMPLE : 
+
+事务所
+สำนักงานทางธุรกิจ
+DESC : 
+EXAMPLE : 
+
+事宜
+เรื่องที่จะต้องจัดการ
+DESC : 
+EXAMPLE : 
+
+事实上
+นั่นแอง
+DESC : 
+EXAMPLE : 
+
+想到
+บังเกิดความคิดขึ้นความคิดหนึ่ง
+DESC : 
+EXAMPLE : 
+
+事态
+เหตุการณ์
+DESC : 
+EXAMPLE : 
+
+事业
+อาชีพ
+DESC : 
+EXAMPLE : 
+
+事物
+เหตุการณ์
+DESC : 
+EXAMPLE : 
+
+事项
+เรื่องราว
+DESC : 
+EXAMPLE : 
+
+二进制
+ระบบเลขฐานสอง
+DESC : 
+EXAMPLE : 
+
+二恶英
+ไดออกซิน
+DESC : 
+EXAMPLE : 
+
+二战
+สงครามโลกครั้งที่สอง
+DESC : 
+EXAMPLE : 
+
+二手货
+สินค้ามือสอง
+DESC : 
+EXAMPLE : 
+
+二极管
+ไดโอด
+DESC : 
+EXAMPLE : 
+
+二次世界大战
+สงครามโลกครั้งที่สอง
+DESC : 
+EXAMPLE : 
+
+二次大战
+สงครามโลกครั้งที่สอง
+DESC : 
+EXAMPLE : 
+
+二氧化硅
+ซิลิคอน ไดออกไซด์
+DESC : 
+EXAMPLE : 
+
+二氧化碳
+คาร์บอน ไดออกไซด์
+DESC : 
+EXAMPLE : 
+
+二水乡
+หมู่บ้านเอ้อสุ่ย
+DESC : 
+EXAMPLE : 
+
+二甲基胂酸
+กรดไดเมทธิล อาซีนิค
+DESC : 
+EXAMPLE : 
+
+二甲苯
+ไซลีน
+DESC : 
+EXAMPLE : 
+
+二叠纪
+ยุคเพอร์เมียน
+DESC : 
+EXAMPLE : 
+
+二百五
+คนโง่
+DESC : 
+EXAMPLE : 
+
+二硫基丙磺酸钠
+sodium dimercaptosulphanate
+DESC : 
+EXAMPLE : 
+
+二硫基丙醇
+ไดเมอร์แคพรอล
+DESC : 
+EXAMPLE : 
+
+二硫基琥珀酸钠
+sodium dimercaptosuccinate
+DESC : 
+EXAMPLE : 
+
+二磷酸腺苷
+อะดีโนซีนไดฟอสเฟต
+DESC : 
+EXAMPLE : 
+
+二者之一
+หนึ่งในสองสิ่ง
+DESC : 
+EXAMPLE : 
+
+二胡
+เอ้อหู
+DESC : 
+EXAMPLE : 
+
+二苯氯胂
+diphenylchloroarsine
+DESC : 
+EXAMPLE : 
+
+二号
+สอง
+DESC : 
+EXAMPLE : 
+
+二轮
+รอบสอง
+DESC : 
+EXAMPLE : 
+
+二迭纪
+ยุคเพอร์เมียน
+DESC : 
+EXAMPLE : 
+
+二连浩特
+Erlianhaote
+DESC : 
+EXAMPLE : 
+
+二重
+สองเท่า
+DESC : 
+EXAMPLE : 
+
+亍
+เดินทอดน่อง
+DESC : 
+EXAMPLE : 
+
+于是
+ดังนั้น
+DESC : 
+EXAMPLE : 
+
+聚拢
+รวมตัวเข้าหากัน
+DESC : 
+EXAMPLE : 
+
+互信
+ความไว้เนื้อเชื่อใจกัน
+DESC : 
+EXAMPLE : 
+
+互利
+ประโยชน์ที่เอื้อต่อกันและกัน
+DESC : 
+EXAMPLE : 
+
+互动电视
+โทรทัศน์แบบมีการโต้ตอบ
+DESC : 
+EXAMPLE : 
+
+互惠
+เอื้อประโยชน์ซึ่งกันและกัน
+DESC : 
+EXAMPLE : 
+
+互换
+แลกเปลี่ยนกัน
+DESC : 
+EXAMPLE : 
+
+互操性
+ขีดความสามารถในการทำงานระหว่างระบบ
+DESC : 
+EXAMPLE : 
+
+互相
+ซึ่งกันและกัน
+DESC : 
+EXAMPLE : 
+
+互联网站
+เว็บไซด์
+DESC : 
+EXAMPLE : 
+
+互通
+การทำงานร่วมกัน
+DESC : 
+EXAMPLE : 
+
+互连
+เครือข่ายเชื่อมโยง
+DESC : 
+EXAMPLE : 
+
+五寨
+อำเภออวู่ไจ้
+DESC : 
+EXAMPLE : 
+
+五一
+วันแรงงานสากล
+DESC : 
+EXAMPLE : 
+
+五原
+อำเภออวู่หยวน
+DESC : 
+EXAMPLE : 
+
+五大名山
+เบญจบรรพต
+DESC : 
+EXAMPLE : 
+
+星
+ดวงดาว
+DESC : 
+EXAMPLE : 
+
+春秋
+ฤดูใบไม้ผลิ และฤดูใบไม้ร่วง
+DESC : 
+EXAMPLE : 
+
+五台山
+ภูเขา อู่ไถซัน
+DESC : 
+EXAMPLE : 
+
+五莲
+อำเภออวู่เหลียน
+DESC : 
+EXAMPLE : 
+
+五通桥区
+เขตพื้นที่อวู่ทงเฉียว
+DESC : 
+EXAMPLE : 
+
+五颜六色
+หลากหลายสีสัน
+DESC : 
+EXAMPLE : 
+
+井研
+อำเภอจิ่งเหยียน
+DESC : 
+EXAMPLE : 
+
+井井有条
+เป็นระเบียบ
+DESC : 
+EXAMPLE : 
+
+井冈山
+เมืองจิ่งกังซาน
+DESC : 
+EXAMPLE : 
+
+井底之蛙
+กบในบ่อลึก
+DESC : 
+EXAMPLE : 
+
+井水不犯河水
+น้ำในบ่อจะไม่ไหลรุกล้ำน้ำในแม่น้ำ
+DESC : 
+EXAMPLE : 
+
+井然
+เป็นระเบียบ
+DESC : 
+EXAMPLE : 
+
+井陉矿区
+เขตน้ำแร่จิ่งสิง
+DESC : 
+EXAMPLE : 
+
+亘
+ตลอด
+DESC : 
+EXAMPLE : 
+
+享有
+ที่พึงได้รับ
+DESC : 
+EXAMPLE : 
+
+亚马孙
+แม่น้ำอะเมซอนในภาคเหนือของอเมริกาใต้
+DESC : 
+EXAMPLE : 
+
+亚利桑那
+รัฐแอริโซนา
+DESC : 
+EXAMPLE : 
+
+亚太经济合作组织
+กลุ่มประเทศในแถบเอเซียแปซิฟิก
+DESC : 
+EXAMPLE : 
+
+亚太国家
+ประเทศแถบเอเซียแปซิฟิก
+DESC : 
+EXAMPLE : 
+
+亚太经合组织
+เอเปค
+DESC : 
+EXAMPLE : 
+
+亚拉巴马
+รัฐอลาบามา
+DESC : 
+EXAMPLE : 
+
+亚洲
+ทวีปเอเซีย
+DESC : 
+EXAMPLE : 
+
+亚尔发和奥米加
+ตั้งแต่ต้นจนจบ
+DESC : 
+EXAMPLE : 
+
+亚当
+คน
+DESC : 
+EXAMPLE : 
+
+亚的斯亚贝巴
+เมืองหลวงของเอธิโอเปีย
+DESC : 
+EXAMPLE : 
+
+亚硝酸异戊酯
+ยาที่ใช้รักษาโรค angina pectoris
+DESC : 
+EXAMPLE : 
+
+亚纲
+จำพวกรอง
+DESC : 
+EXAMPLE : 
+
+亚美尼亚
+ประเทศอาร์เมเนีย
+DESC : 
+EXAMPLE : 
+
+亚军
+รองชนะเลิศ
+DESC : 
+EXAMPLE : 
+
+亚里士多德
+นักปราชญ์ชาวกรีก
+DESC : 
+EXAMPLE : 
+
+亚里斯多德
+นักปราชญ์ชาวกรีก
+DESC : 
+EXAMPLE : 
+
+亚门
+การแบ่งย่อย
+DESC : 
+EXAMPLE : 
+
+亚麻布
+ผ้าลินิน
+DESC : 
+EXAMPLE : 
+
+亟
+หลายครั้ง
+DESC : 
+EXAMPLE : 
+
+亡命
+หลบหนีออกจากคุก
+DESC : 
+EXAMPLE : 
+
+亢进
+การปฏิบัติหน้าที่เกินขอบเขตของอวัยวะในร่างกาย
+DESC : 
+EXAMPLE : 
+
+亢旱
+แล้งมาก
+DESC : 
+EXAMPLE : 
+
+交火
+ทำสงคราม
+DESC : 
+EXAMPLE : 
+
+交互
+ซึ่งกันและกัน
+DESC : 
+EXAMPLE : 
+
+交付
+วาง
+DESC : 
+EXAMPLE : 
+
+交代
+มอบหมาย
+DESC : 
+EXAMPLE : 
+
+交出
+ส่งออกไป
+DESC : 
+EXAMPLE : 
+
+交叉
+ตัดกัน
+DESC : 
+EXAMPLE : 
+
+交口
+เจียวโข่ว
+DESC : 
+EXAMPLE : 
+
+交城
+เจียวเฉิง
+DESC : 
+EXAMPLE : 
+
+交媾
+การร่วมเพศ
+DESC : 
+EXAMPLE : 
+
+交往
+ติดต่อ
+DESC : 
+EXAMPLE : 
+
+交战
+ต่อสู้
+DESC : 
+EXAMPLE : 
+
+交手
+ต่อยกัน
+DESC : 
+EXAMPLE : 
+
+交换器
+สวิตช์
+DESC : 
+EXAMPLE : 
+
+交换技术
+เทคโนโลยีสวิตชิ่ง
+DESC : 
+EXAMPLE : 
+
+交换端
+สวิตช์พอร์ท
+DESC : 
+EXAMPLE : 
+
+交易者
+นักธุรกิจ
+DESC : 
+EXAMPLE : 
+
+港交所
+ตลาดหุ้นของฮ่องกง
+DESC : 
+EXAMPLE : 
+
+交易额
+มูลค่าการค้า
+DESC : 
+EXAMPLE : 
+
+交替
+แทนที่
+DESC : 
+EXAMPLE : 
+
+交流
+แลกเปลี่ยน
+DESC : 
+EXAMPLE : 
+
+交涉
+เจรจาต่อรอง
+DESC : 
+EXAMPLE : 
+
+交界
+พรมแดนติดต่อกัน
+DESC : 
+EXAMPLE : 
+
+交给
+มอบให้
+DESC : 
+EXAMPLE : 
+
+交织
+ผสมผสาน
+DESC : 
+EXAMPLE : 
+
+交谊
+มิตรภาพ
+DESC : 
+EXAMPLE : 
+
+交谈
+เจรจากัน
+DESC : 
+EXAMPLE : 
+
+交通阻塞
+การจราจรติดขัด
+DESC : 
+EXAMPLE : 
+
+交通堵塞
+การจราจรติดขัด
+DESC : 
+EXAMPLE : 
+
+交还
+ส่งคืน
+DESC : 
+EXAMPLE : 
+
+交配
+การผสมพันธุ์กันของสัตว์
+DESC : 
+EXAMPLE : 
+
+交锋
+ปะทะกัน
+DESC : 
+EXAMPLE : 
+
+交错
+ตัดสลับกัน
+DESC : 
+EXAMPLE : 
+
+交际
+การสมาคม
+DESC : 
+EXAMPLE : 
+
+交响曲
+ซิมโฟนี
+DESC : 
+EXAMPLE : 
+
+交点
+จุดตัด
+DESC : 
+EXAMPLE : 
+
+亦即
+กล่าวคือ
+DESC : 
+EXAMPLE : 
+
+亨特泰罗
+ฮันเตอร์ ไทโล
+DESC : 
+EXAMPLE : 
+
+享受主义者
+นักสุขนิยม
+DESC : 
+EXAMPLE : 
+
+享国
+ครองราชย์
+DESC : 
+EXAMPLE : 
+
+享年
+สิริอายุ
+DESC : 
+EXAMPLE : 
+
+享乐主义者
+นักสุขนิยม
+DESC : 
+EXAMPLE : 
+
+享清福
+มีชีวิตสุขสงบสบาย
+DESC : 
+EXAMPLE : 
+
+享用
+ได้รับความพอใจจากการใช้หรือการกิน
+DESC : 
+EXAMPLE : 
+
+享福
+เสพสุข
+DESC : 
+EXAMPLE : 
+
+直辖市
+เมืองที่ปกครองโดยตรงจากฐัฐบาลกลาง
+DESC : 
+EXAMPLE : 
+
+响亮
+เสียงดัง
+DESC : 
+EXAMPLE : 
+
+亮光
+แสงสว่าง
+DESC : 
+EXAMPLE : 
+
+亮堂
+สว่างไสว
+DESC : 
+EXAMPLE : 
+
+亮度
+ระดับความส่องสว่าง
+DESC : 
+EXAMPLE : 
+
+亮星
+ดาวกระจ่างฟ้า
+DESC : 
+EXAMPLE : 
+
+亳
+อำเภอป๋อ
+DESC : 
+EXAMPLE : 
+
+人类学家
+นักมนุษย์วิทยา
+DESC : 
+EXAMPLE : 
+
+人事
+เรื่องของโลก
+DESC : 
+EXAMPLE : 
+
+人们
+ประชาชน
+DESC : 
+EXAMPLE : 
+
+人力车
+รถลากของจีน
+DESC : 
+EXAMPLE : 
+
+人参
+โสมคน
+DESC : 
+EXAMPLE : 
+
+人口调查
+การสำรวจสำมะโนครัวประชากร
+DESC : 
+EXAMPLE : 
+
+人口稠密
+มีพลเมืองหนาแน่น
+DESC : 
+EXAMPLE : 
+
+人员
+เจ้าพนักงาน
+DESC : 
+EXAMPLE : 
+
+人均
+ต่อคน
+DESC : 
+EXAMPLE : 
+
+人士
+บุคคลที่มีชื่อเสียง
+DESC : 
+EXAMPLE : 
+
+享乐
+ได้รับความสุข
+DESC : 
+EXAMPLE : 
+
+人家
+คนอื่น
+DESC : 
+EXAMPLE : 
+
+人山人海
+คนมืดฟ้ามัวดิน
+DESC : 
+EXAMPLE : 
+
+人工流产
+การทำแท้ง
+DESC : 
+EXAMPLE : 
+
+人工概念
+เทียม
+DESC : 
+EXAMPLE : 
+
+向背
+เห็นด้วยและคัดค้าน
+DESC : 
+EXAMPLE : 
+
+人性
+ความเป็นมนุษย์
+DESC : 
+EXAMPLE : 
+
+人情
+น้ำใจของมนุษย์ที่มีต่อกัน
+DESC : 
+EXAMPLE : 
+
+人手
+กำลังคน
+DESC : 
+EXAMPLE : 
+
+人才
+บุคคลที่มีความสามารถ
+DESC : 
+EXAMPLE : 
+
+人格
+บุคคล
+DESC : 
+EXAMPLE : 
+
+人权
+สิทธิมนุษยชน
+DESC : 
+EXAMPLE : 
+
+人为
+มนุษย์สร้างขึ้น
+DESC : 
+EXAMPLE : 
+
+响叮当
+เสียงดังกรุ๊งกริ๊ง
+DESC : 
+EXAMPLE : 
+
+人物描写
+พรรณนา
+DESC : 
+EXAMPLE : 
+
+人畜共患症
+โรคของสัตว์ที่ติดต่อไปยังคนได้
+DESC : 
+EXAMPLE : 
+
+人群
+บุคคลที่เป็นกลุ่ม
+DESC : 
+EXAMPLE : 
+
+人行道
+บาทวิถี
+DESC : 
+EXAMPLE : 
+
+人质
+ของประกัน
+DESC : 
+EXAMPLE : 
+
+人身
+ทางกาย
+DESC : 
+EXAMPLE : 
+
+人造
+ทำด้วยฝีมือของมนุษย์
+DESC : 
+EXAMPLE : 
+
+人道主义
+มานุษยวิทยา
+DESC : 
+EXAMPLE : 
+
+人选
+ความรู้สึกธรรมดาของมนุษย์
+DESC : 
+EXAMPLE : 
+
+人头狮身
+ตัวซฟิง
+DESC : 
+EXAMPLE : 
+
+射手座
+กลุ่มดาวคนยิงธนู
+DESC : 
+EXAMPLE : 
+
+仁厚
+เมตตาและโอบอ้อมอารี
+DESC : 
+EXAMPLE : 
+
+仁爱
+รักในเพื่อนมนุษย์
+DESC : 
+EXAMPLE : 
+
+仁慈
+เมตตา
+DESC : 
+EXAMPLE : 
+
+仂
+ส่วนเกิน
+DESC : 
+EXAMPLE : 
+
+仃
+โดดเดี่ยว
+DESC : 
+EXAMPLE : 
+
+仄
+ไม่สบายใจ
+DESC : 
+EXAMPLE : 
+
+仆人
+คนรับใช้
+DESC : 
+EXAMPLE : 
+
+仇人
+ศัตรู
+DESC : 
+EXAMPLE : 
+
+仇恨
+ความอาฆาตแค้น
+DESC : 
+EXAMPLE : 
+
+今世
+ชีวิตนี้
+DESC : 
+EXAMPLE : 
+
+今年
+ปีนี้
+DESC : 
+EXAMPLE : 
+
+今日
+วันนี้
+DESC : 
+EXAMPLE : 
+
+今昔
+สมัยปัจจุบันและสมัยก่อน
+DESC : 
+EXAMPLE : 
+
+今晚
+เย็นนี้
+DESC : 
+EXAMPLE : 
+
+今生
+ชั่วชีวิตนี้
+DESC : 
+EXAMPLE : 
+
+今译
+หนังสือโบราณที่แปลด้วยภาษาสมัยปัจจุบัน
+DESC : 
+EXAMPLE : 
+
+今音
+การออกเสียงตัวภาษาจีนในสมัยปัจจุบัน
+DESC : 
+EXAMPLE : 
+
+狷
+จิตใจคับแคบ
+DESC : 
+EXAMPLE : 
+
+介入
+เข้าไปเกี่ยวข้องด้วย
+DESC : 
+EXAMPLE : 
+
+介子
+เมสัน
+DESC : 
+EXAMPLE : 
+
+介意
+ถือสีถือสา
+DESC : 
+EXAMPLE : 
+
+介壳
+เปลือก
+DESC : 
+EXAMPLE : 
+
+介系词
+บุพบท
+DESC : 
+EXAMPLE : 
+
+介绍
+แนะนำ
+DESC : 
+EXAMPLE : 
+
+介词
+บุพบท
+DESC : 
+EXAMPLE : 
+
+介质
+ตัวสื่อกลาง
+DESC : 
+EXAMPLE : 
+
+介面
+ผิวหน้าที่อยู่ระหว่าง 2 ส่วน
+DESC : 
+EXAMPLE : 
+
+仍然
+สันธาน
+DESC : 
+EXAMPLE : 
+
+想方设法
+พยายามทำทุกวิถีทาง
+DESC : 
+EXAMPLE : 
+
+他人
+คนอื่นๆ
+DESC : 
+EXAMPLE : 
+
+船
+เรือ
+DESC : 
+EXAMPLE : 
+
+妹妹
+น้องสาว
+DESC : 
+EXAMPLE : 
+
+生病
+ไม่สบาย
+DESC : 
+EXAMPLE : 
+
+住院
+เข้าโรงพยาบาล
+DESC : 
+EXAMPLE : 
+
+住院处
+แผนกผู้ป่วยใน
+DESC : 
+EXAMPLE : 
+
+出院
+ออกจากโรงพยาบาล
+DESC : 
+EXAMPLE : 
+
+病人
+ผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+护士
+พยาบาล
+DESC : 
+EXAMPLE : 
+
+病床
+เตียงผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+病房
+ห้องผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+挂号
+ลงทะเบียน
+DESC : 
+EXAMPLE : 
+
+医生
+แพทย์
+DESC : 
+EXAMPLE : 
+
+左边
+ทางซ้าย
+DESC : 
+EXAMPLE : 
+
+下边
+ข้างล่าง
+DESC : 
+EXAMPLE : 
+
+上边
+ข้างบน
+DESC : 
+EXAMPLE : 
+
+苹果
+แอปเปิ้ล
+DESC : 
+EXAMPLE : 
+
+外国
+ต่างประเทศ
+DESC : 
+EXAMPLE : 
+
+国外
+นอกประเทศ
+DESC : 
+EXAMPLE : 
+
+国内
+ในประเทศ
+DESC : 
+EXAMPLE : 
+
+国际
+ระหว่างประเทศ
+DESC : 
+EXAMPLE : 
+
+国籍
+สัญชาติ
+DESC : 
+EXAMPLE : 
+
+国家
+ประเทศ
+DESC : 
+EXAMPLE : 
+
+国旗
+ธงชาติ
+DESC : 
+EXAMPLE : 
+
+世界
+โลก
+DESC : 
+EXAMPLE : 
+
+火星
+ดาวอังคาร
+DESC : 
+EXAMPLE : 
+
+宇宙
+จักรวาล
+DESC : 
+EXAMPLE : 
+
+酱油
+ซีอิ๊ว
+DESC : 
+EXAMPLE : 
+
+醋
+น้ำส้มสายชู
+DESC : 
+EXAMPLE : 
+
+味道
+รสชาติ
+DESC : 
+EXAMPLE : 
+
+耗油
+น้ำมันหอย
+DESC : 
+EXAMPLE : 
+
+香油
+น้ำมันงา
+DESC : 
+EXAMPLE : 
+
+芝麻油
+น้ำมันงา
+DESC : 
+EXAMPLE : 
+
+味精
+ผงชูรส
+DESC : 
+EXAMPLE : 
+
+辣椒
+พริก
+DESC : 
+EXAMPLE : 
+
+辣酱
+น้ำตาล
+DESC : 
+EXAMPLE : 
+
+盐
+เกลือ
+DESC : 
+EXAMPLE : 
+
+保持
+รักษาให้คงอยู่ต่อไป
+DESC : 
+EXAMPLE : 
+
+保存
+รักษาไว้
+DESC : 
+EXAMPLE : 
+
+保护
+คุ้มครอง
+DESC : 
+EXAMPLE : 
+
+保证
+รับประกัน
+DESC : 
+EXAMPLE : 
+
+保重
+รักษาสุขภาพให้ดี
+DESC : 
+EXAMPLE : 
+
+保安
+รักษาความปลอดภัย
+DESC : 
+EXAMPLE : 
+
+保险
+ประกันภัย
+DESC : 
+EXAMPLE : 
+
+保密
+รักษาความลับ
+DESC : 
+EXAMPLE : 
+
+保障
+คุ้มครอง
+DESC : 
+EXAMPLE : 
+
+保藏
+เก็บรักษา
+DESC : 
+EXAMPLE : 
+
+年代
+ยุค
+DESC : 
+EXAMPLE : 
+
+年均
+ต่อปี
+DESC : 
+EXAMPLE : 
+
+年龄
+อายุ
+DESC : 
+EXAMPLE : 
+
+年轻
+อายุน้อย
+DESC : 
+EXAMPLE : 
+
+年级
+ชั้นปีที่
+DESC : 
+EXAMPLE : 
+
+年初
+ต้นปี
+DESC : 
+EXAMPLE : 
+
+年底
+ปลายปี
+DESC : 
+EXAMPLE : 
+
+年年
+ทุกปี
+DESC : 
+EXAMPLE : 
+
+今年
+ปีนี้
+DESC : 
+EXAMPLE : 
+
+来年
+ปีหน้า
+DESC : 
+EXAMPLE : 
+
+去年
+ปีที่แล้ว
+DESC : 
+EXAMPLE : 
+
+去年
+ปีที่แล้ว
+DESC : 
+EXAMPLE : 
+
+相信
+เชื่อ
+DESC : 
+EXAMPLE : 
+
+信心
+มั่นใจ
+DESC : 
+EXAMPLE : 
+
+自信
+มั่นใจในตัวเอง
+DESC : 
+EXAMPLE : 
+
+信用
+สินเชื่อ
+DESC : 
+EXAMPLE : 
+
+信赖
+ไว้วางใจ
+DESC : 
+EXAMPLE : 
+
+信服
+เลื่อมใสศรัทธาอย่างมาก
+DESC : 
+EXAMPLE : 
+
+信仰
+ความเลื่อมใสศรัทธา
+DESC : 
+EXAMPLE : 
+
+信徒
+ศาสนิกชน
+DESC : 
+EXAMPLE : 
+
+信息
+ข่าว
+DESC : 
+EXAMPLE : 
+
+信号
+สัญญาณ
+DESC : 
+EXAMPLE : 
+
+牵手
+จูงมือ
+DESC : 
+EXAMPLE : 
+
+放手
+วางมือ/ปล่อยมือ
+DESC : 
+EXAMPLE : 
+
+分手
+แยกทางกัน/เลิกรากัน
+DESC : 
+EXAMPLE : 
+
+凶手
+ฆาตกร
+DESC : 
+EXAMPLE : 
+
+手心
+ฝ่ามือ
+DESC : 
+EXAMPLE : 
+
+手机
+โทรศัพท์มือถือ
+DESC : 
+EXAMPLE : 
+
+手续
+พิธีการ
+DESC : 
+EXAMPLE : 
+
+洗手
+เลิกราจากวงการ
+DESC : 
+EXAMPLE : 
+
+手表
+นาฬิกาข้อมือ
+DESC : 
+EXAMPLE : 
+
+手册
+คู่มือ
+DESC : 
+EXAMPLE : 
+
+委员
+กรรมการ
+DESC : 
+EXAMPLE : 
+
+好心
+ใจดี
+DESC : 
+EXAMPLE : 
+
+比分
+คะแนน
+DESC : 
+EXAMPLE : 
+
+病床
+เตียงผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+病房
+ห้องผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+挂号
+ลงทะเบียน
+DESC : 
+EXAMPLE : 
+
+医生
+แพทย์
+DESC : 
+EXAMPLE : 
+
+护士
+พยาบาล
+DESC : 
+EXAMPLE : 
+
+病人
+ผู้ป่วย
+DESC : 
+EXAMPLE : 
+
+生病
+ไม่สบาย
+DESC : 
+EXAMPLE : 
+
+外国
+ต่างประเทศ
+DESC : 
+EXAMPLE : 
+
+国外
+นอกประเทศ
+DESC : 
+EXAMPLE : 
+
+国内
+ในประเทศ
+DESC : 
+EXAMPLE : 
+
+国际
+ระหว่างประเทศ
+DESC : 
+EXAMPLE : 
+
+国籍
+สัญชาติ
+DESC : 
+EXAMPLE : 
+
+国家
+ประเทศชาติ
+DESC : 
+EXAMPLE : 
+
+国旗
+ธงชาติ
+DESC : 
+EXAMPLE : 
+
+世界
+โลก
+DESC : 
+EXAMPLE : 
+
+火星
+ดางอังคาร
+DESC : 
+EXAMPLE : 
+
+宇宙
+จักรวาล
+DESC : 
+EXAMPLE : 
+
+酱油
+ซีอิ๊ว
+DESC : 
+EXAMPLE : 
+
+醋
+น้ำส้มสายชู
+DESC : 
+EXAMPLE : 
+
+味道
+รสชาติ
+DESC : 
+EXAMPLE : 
+
+耗油
+น้ำมันหอย
+DESC : 
+EXAMPLE : 
+
+香油
+น้ำมันงา
+DESC : 
+EXAMPLE : 
+
+芝麻油
+น้ำมันงา
+DESC : 
+EXAMPLE : 
+
+味精
+ผงชูรส
+DESC : 
+EXAMPLE : 
+
+辣椒
+พริก
+DESC : 
+EXAMPLE : 
+
+辣酱
+น้ำตาล
+DESC : 
+EXAMPLE : 
+
+盐
+เกลือ
+DESC : 
+EXAMPLE : 
+
+保持
+รักษาให้คงอยู่ต่อไป
+DESC : 
+EXAMPLE : 
+
+保存
+รักษาไว้
+DESC : 
+EXAMPLE : 
+
+保护
+คุ้มครอง
+DESC : 
+EXAMPLE : 
+
+保证
+รับประกัน
+DESC : 
+EXAMPLE : 
+
+保重
+รักษาสุขภาพให้ดี
+DESC : 
+EXAMPLE : 
+
+保安
+รักษาความปลอดภัย
+DESC : 
+EXAMPLE : 
+
+保险
+ประกันภัย
+DESC : 
+EXAMPLE : 
+
+保密
+รักษาความลับ
+DESC : 
+EXAMPLE : 
+
+保障
+คุ้มครอง
+DESC : 
+EXAMPLE : 
+
+保藏
+เก็บรักษา
+DESC : 
+EXAMPLE : 
+
+年代
+ยุค
+DESC : 
+EXAMPLE : 
+
+年均
+ต่อปี
+DESC : 
+EXAMPLE : 
+
+年龄
+อายุ
+DESC : 
+EXAMPLE : 
+
+年轻
+อายุน้อย
+DESC : 
+EXAMPLE : 
+
+年级
+ชั้นปีที่
+DESC : 
+EXAMPLE : 
+
+年初
+ต้นปี
+DESC : 
+EXAMPLE : 
+
+年底
+ปลายปี
+DESC : 
+EXAMPLE : 
+
+年年
+ทุกปี
+DESC : 
+EXAMPLE : 
+
+今年
+ปีนี้
+DESC : 
+EXAMPLE : 
+
+来年
+ปีหน้า
+DESC : 
+EXAMPLE : 
+
+去年
+ปีที่แล้ว
+DESC : 
+EXAMPLE : 
+
+相信
+เชื่อ
+DESC : 
+EXAMPLE : 
+
+信心
+มั่นใจ
+DESC : 
+EXAMPLE : 
+
+自信
+มั่นใจในตัวเอง
+DESC : 
+EXAMPLE : 
+
+信用
+สินเชื่อ
+DESC : 
+EXAMPLE : 
+
+信赖
+ไว้วางใจ
+DESC : 
+EXAMPLE : 
+
+信服
+เลื่อมใสศรัทธาอย่างมาก
+DESC : 
+EXAMPLE : 
+
+信仰
+ความเลื่อมใสศรัทธา
+DESC : 
+EXAMPLE : 
+
+信徒
+ศาสนิกชน
+DESC : 
+EXAMPLE : 
+
+信息
+ข่าว
+DESC : 
+EXAMPLE : 
+
+信号
+สัญญาณ
+DESC : 
+EXAMPLE : 
+
+牵手
+จูงมือ
+DESC : 
+EXAMPLE : 
+
+放手
+วางมือ/ปล่อยมือ
+DESC : 
+EXAMPLE : 
+
+分手
+แยกทางกัน/เลิกรากัน
+DESC : 
+EXAMPLE : 
+
+凶手
+ฆาตกร
+DESC : 
+EXAMPLE : 
+
+手心
+ฝ่ามือ
+DESC : 
+EXAMPLE : 
+
+手机
+โทรศัพท์มือถือ
+DESC : 
+EXAMPLE : 
+
+手续
+พิธีการ
+DESC : 
+EXAMPLE : 
+
+洗手
+เลิกราจากวงการ
+DESC : 
+EXAMPLE : 
+
+手表
+นาฬิกาข้อมือ
+DESC : 
+EXAMPLE : 
+
+手册
+คู่มือ
+DESC : 
+EXAMPLE : 
+
+天气
+อากาศ
+DESC : 
+EXAMPLE : 
+
+气候
+ภูมิอากาศ
+DESC : 
+EXAMPLE : 
+
+温度
+อุณหภูมิ
+DESC : 
+EXAMPLE : 
+
+气温
+อุณหภูมิของอากาศ
+DESC : 
+EXAMPLE : 
+
+摄氏度
+องศาเซลเซียส
+DESC : 
+EXAMPLE : 
+
+华氏度
+องศาฟาเรนไฮน์
+DESC : 
+EXAMPLE : 
+
+天气预报
+พยากรณ์อากาศ
+DESC : 
+EXAMPLE : 
+
+多云
+เมฆมาก
+DESC : 
+EXAMPLE : 
+
+晴天
+ท้องฟ้าปลอดโปร่ง
+DESC : 
+EXAMPLE : 
+
+阴天
+ท้องฟ้ามืดครึ้ม
+DESC : 
+EXAMPLE : 
+
+身高
+ส่วนสูง
+DESC : 
+EXAMPLE : 
+
+重量
+น้ำหนัก
+DESC : 
+EXAMPLE : 
+
+身材
+รูปร่าง(อ้วน,ผอม)
+DESC : 
+EXAMPLE : 
+
+个子
+รูปร่าง(สูง,เตี้ย)
+DESC : 
+EXAMPLE : 
+
+胖
+อ้วน
+DESC : 
+EXAMPLE : 
+
+瘦
+ผอม
+DESC : 
+EXAMPLE : 
+
+高
+สูง
+DESC : 
+EXAMPLE : 
+
+矮
+เตี้ย
+DESC : 
+EXAMPLE : 
+
+苗条
+ผอมเพรียว
+DESC : 
+EXAMPLE : 
+
+模特儿
+นางแบบ
+DESC : 
+EXAMPLE : 
+
+短信
+ข้อความสั้น
+DESC : 
+EXAMPLE : 
+
+电子邮件
+อีเมลล์
+DESC : 
+EXAMPLE : 
+
+信箱
+กล่องจดหมาย
+DESC : 
+EXAMPLE : 
+
+因特网
+อินเตอร์เน็ต
+DESC : 
+EXAMPLE : 
+
+网络
+เครือข่าย
+DESC : 
+EXAMPLE : 
+
+网站
+เว็ปไซต์
+DESC : 
+EXAMPLE : 
+
+点击
+คลิ๊ก
+DESC : 
+EXAMPLE : 
+
+下载
+ดาวน์โหลด
+DESC : 
+EXAMPLE : 
+
+上载
+อัพโหลด
+DESC : 
+EXAMPLE : 
+
+多媒体
+มัลติมีเดีย
+DESC : 
+EXAMPLE : 
+
+质量控制
+การควบคุมคุณภาพ
+DESC : 
+EXAMPLE : 
+
+质量检查
+การตรวจสอบคุณภาพ
+DESC : 
+EXAMPLE : 
+
+质量保证
+การประกันคุณภาพ
+DESC : 
+EXAMPLE : 
+
+价格控制
+การควบคุมราคา
+DESC : 
+EXAMPLE : 
+
+成本控制
+การควบคุมต้นทุน
+DESC : 
+EXAMPLE : 
+
+生产成本
+ต้นทุนการผลิต
+DESC : 
+EXAMPLE : 
+
+生产因素
+ปัจจัยการผลิต
+DESC : 
+EXAMPLE : 
+
+生产力
+กำลังการผลิต
+DESC : 
+EXAMPLE : 
+
+账目检查
+การตรวจสอบบัญชี
+DESC : 
+EXAMPLE : 
+
+估价
+ประเมินราคา
+DESC : 
+EXAMPLE : 
+
+贸易顺差
+การค้าเกินดุล
+DESC : 
+EXAMPLE : 
+
+贸易逆差
+การค้าขาดดุล
+DESC : 
+EXAMPLE : 
+
+贸易谈判
+การเจรจาทางการค้า
+DESC : 
+EXAMPLE : 
+
+贸易协定
+ข้อตกลงทางการค้า
+DESC : 
+EXAMPLE : 
+
+国际贸易
+การค้าระหว่างประเทศ
+DESC : 
+EXAMPLE : 
+
+对外贸易
+การค้ากับต่างชาติ
+DESC : 
+EXAMPLE : 
+
+国内贸易
+การค้าภายในประเทศ
+DESC : 
+EXAMPLE : 
+
+自由贸易
+การค้าเสรี
+DESC : 
+EXAMPLE : 
+
+企业政策
+นโยบายทางธุรกิจ
+DESC : 
+EXAMPLE : 
+
+经济危机
+วิกฤตเศรษฐกิจ
+DESC : 
+EXAMPLE : 
+
+泡沫经济
+เศรษฐกิจฟองสบู่
+DESC : 
+EXAMPLE : 
+
+税
+ภาษี
+DESC : 
+EXAMPLE : 
+
+税率
+อัตราภาษี
+DESC : 
+EXAMPLE : 
+
+纳税
+ชำระภาษี
+DESC : 
+EXAMPLE : 
+
+付税
+จ่ายภาษี
+DESC : 
+EXAMPLE : 
+
+逃税
+หนีภาษี
+DESC : 
+EXAMPLE : 
+
+进口税
+ภาษีนำเข้า
+DESC : 
+EXAMPLE : 
+
+出口税
+ภาษีส่งออก
+DESC : 
+EXAMPLE : 
+
+关税
+ภาษีศุลกากร
+DESC : 
+EXAMPLE : 
+
+附加税
+ภาษีมูลค่าเพิ่ม
+DESC : 
+EXAMPLE : 
+
+营业税
+ภาษีการค้า
+DESC : 
+EXAMPLE : 
+
+土地税
+ภาษีดิน
+DESC : 
+EXAMPLE : 
+
+专利权登记
+การจดสิทธิบัตร
+DESC : 
+EXAMPLE : 
+
+专利证书
+สิทธิบัตร
+DESC : 
+EXAMPLE : 
+
+版权
+ลิขสิทธิ์
+DESC : 
+EXAMPLE : 
+
+智慧财产
+ทรัพย์สินทางปัญญา
+DESC : 
+EXAMPLE : 
+
+转让
+โอนกรรมสิทธิ์
+DESC : 
+EXAMPLE : 
+
+注册资本
+ทุนจดทะเบียน
+DESC : 
+EXAMPLE : 
+
+商标
+เครื่องหมายการค้า
+DESC : 
+EXAMPLE : 
+
+注册商标
+เครื่องหมายการค้าจดทะเบียน
+DESC : 
+EXAMPLE : 
+
+授权书
+หนังสือมอบอำนาจ
+DESC : 
+EXAMPLE : 
+
+破产
+ล้มละลาย
+DESC : 
+EXAMPLE : 
+
+消费者
+ผู้บริโภค
+DESC : 
+EXAMPLE : 
+
+供应商
+ผู้จัดหา/ซัพพลายเออร์
+DESC : 
+EXAMPLE : 
+
+畅销
+ขายดี
+DESC : 
+EXAMPLE : 
+
+滞销
+ขายไม่ดี
+DESC : 
+EXAMPLE : 
+
+促销
+ขายคล่อง
+DESC : 
+EXAMPLE : 
+
+试销
+ทดสอบตลาด/ทดลองขาย
+DESC : 
+EXAMPLE : 
+
+上市
+วางตลาด
+DESC : 
+EXAMPLE : 
+
+市场调查
+สำรวจตลาด
+DESC : 
+EXAMPLE : 
+
+供不应求
+ขาดตลาด
+DESC : 
+EXAMPLE : 
+
+供过于求
+ล้นตลาด
+DESC : 
+EXAMPLE : 
+
+重量证书
+ใบรับรองน้ำหนัก
+DESC : 
+EXAMPLE : 
+
+商品检查证书
+ใบรับรองการตรวจสอบสินค้า
+DESC : 
+EXAMPLE : 
+
+进口许可证
+ใบอนุญาตนำเข้า
+DESC : 
+EXAMPLE : 
+
+质量证书
+ใบรับรองคุณภาพ
+DESC : 
+EXAMPLE : 
+
+有关单证
+เอกสารที่เกี่ยวข้อง
+DESC : 
+EXAMPLE : 
+
+地产证明书
+ใบรับรองแหล่งกำเนิดสินค้า
+DESC : 
+EXAMPLE : 
+
+进口申报单
+ใบขนสินค้าขาเข้า
+DESC : 
+EXAMPLE : 
+
+出口申报单
+ใบขนสินค้าขาออก
+DESC : 
+EXAMPLE : 
+
+保证书
+ใบรับประกัน
+DESC : 
+EXAMPLE : 
+
+询价单
+ใบสอบถามราคา
+DESC : 
+EXAMPLE : 
+
+母公司
+บริษัทแม่
+DESC : 
+EXAMPLE : 
+
+子公司
+บริษัทลูก
+DESC : 
+EXAMPLE : 
+
+总公司
+สำนักงานใหญ่
+DESC : 
+EXAMPLE : 
+
+有限公司
+บริษัทจำกัด
+DESC : 
+EXAMPLE : 
+
+公共招股公司
+บริษัทมหาชน
+DESC : 
+EXAMPLE : 
+
+国营企业
+รัฐวิสาหกิจ
+DESC : 
+EXAMPLE : 
+
+保险公司
+บริษัทประกันภัย
+DESC : 
+EXAMPLE : 
+
+分支
+สาขา
+DESC : 
+EXAMPLE : 
+
+股东
+หุ้นส่วน/ผู้ถือหุ้น
+DESC : 
+EXAMPLE : 
+
+股票
+หุ้น
+DESC : 
+EXAMPLE : 
+
+出产地
+แหล่งผลิต
+DESC : 
+EXAMPLE : 
+
+厂商
+บริษัทผู้ผลิต
+DESC : 
+EXAMPLE : 
+
+出口商
+ผู้ส่งสินค้าออก
+DESC : 
+EXAMPLE : 
+
+出口商品
+สินค้าส่งออก
+DESC : 
+EXAMPLE : 
+
+出租
+ให้เช้า
+DESC : 
+EXAMPLE : 
+
+出租人
+ผู้ให้เช่า
+DESC : 
+EXAMPLE : 
+
+承租人
+ผู้เช่า
+DESC : 
+EXAMPLE : 
+
+规定
+ข้อกำหนด	
+DESC : 
+EXAMPLE : 
+
+按期
+ตามกำหนดเวลา
+DESC : 
+EXAMPLE : 
+
+到期
+ถึงกำหนดเวลา
+DESC : 
+EXAMPLE : 
+
+经济特区
+เขตเศรษฐกิจพิเศษ
+DESC : 
+EXAMPLE : 
+
+自由贸易区
+เขตการค้าเสรี
+DESC : 
+EXAMPLE : 
+
+自由港
+ท่าเรือเสรี
+DESC : 
+EXAMPLE : 
+
+世界贸易组织
+องค์การการค้าโลก
+DESC : 
+EXAMPLE : 
+
+国际货币基金组织
+กองทุนเงินตราระหว่างประเทศ
+DESC : 
+EXAMPLE : 
+
+国际标准化组织
+องค์กรมาตรฐานสากล	
+DESC : 
+EXAMPLE : 
+
+东南亚国家联盟
+สมาคมความร่วมมือเอเชียตะวันออกเฉียงใต้
+DESC : 
+EXAMPLE : 
+
+亚太经合组织
+องค์กรความร่วมมือทางเศรษฐกิจในแถบเอเชียแปซิฟิก
+DESC : 
+EXAMPLE : 
+
+跨国公司
+บริษัทข้ามชาติ
+DESC : 
+EXAMPLE : 
+
+发展中国家
+ประเทศกำลังพัฒนา
+DESC : 
+EXAMPLE : 
+
+入境登记卡
+บัตรขาเข้า	
+DESC : 
+EXAMPLE : 
+
+出境登记卡
+บัตรขาออก
+DESC : 
+EXAMPLE : 
+
+飞机场
+สนามบิน
+DESC : 
+EXAMPLE : 
+
+机票
+ตั๋วเครื่องบิน
+DESC : 
+EXAMPLE : 
+
+确认
+ยืนยัน
+DESC : 
+EXAMPLE : 
+
+姓名
+ชื่อนามสกุล
+DESC : 
+EXAMPLE : 
+
+性别
+เพศ
+DESC : 
+EXAMPLE : 
+
+男
+ชาย
+DESC : 
+EXAMPLE : 
+
+女
+หญิง
+DESC : 
+EXAMPLE : 
+
+护照
+หนังสือเดินทาง
+DESC : 
+EXAMPLE : 
+
+签证
+วีซ่า
+DESC : 
+EXAMPLE : 
+
+签名
+ลงชื่อ/เซ็นชื่อ
+DESC : 
+EXAMPLE : 
+
+证件号码
+หมายเลขหนังสือเดินทาง
+DESC : 
+EXAMPLE : 
+
+签注号码
+หมายเลขวีซ่า
+DESC : 
+EXAMPLE : 
+
+签注签发地
+สถานที่ออกวีซ่าให้
+DESC : 
+EXAMPLE : 
+
+航班号
+หมายเลขเที่ยวบิน
+DESC : 
+EXAMPLE : 
+
+国籍
+สัญชาติ
+DESC : 
+EXAMPLE : 
+
+出生日期
+วันเดือนปีเกิด
+DESC : 
+EXAMPLE : 
+
+入境日期
+วันที่เดินทางเข้ามา
+DESC : 
+EXAMPLE : 
+
+入境事由
+สาเหตุในการเดินทางเข้ามา
+DESC : 
+EXAMPLE : 
+
+会议
+ธุรกิจ
+DESC : 
+EXAMPLE : 
+
+商务
+ธุรกิจ
+DESC : 
+EXAMPLE : 
+
+学习
+เรียนหนังสือ
+DESC : 
+EXAMPLE : 
+
+观光
+พักผ่อน
+DESC : 
+EXAMPLE : 
+
+休闲
+พักผ่อน
+DESC : 
+EXAMPLE : 
+
+返回常住地
+กลับบ้าน
+DESC : 
+EXAMPLE : 
+
+就业
+ทำงาน
+DESC : 
+EXAMPLE : 
+
+其他
+อื่นๆ
+DESC : 
+EXAMPLE : 
+
+出境日期
+วันที่เดินทางออก
+DESC : 
+EXAMPLE : 
+
+出境事由
+สาเหตุในการเดินทางออก
+DESC : 
+EXAMPLE : 
+
+老师
+ครู/อาจารย์
+DESC : 
+EXAMPLE : 
+
+律师
+ทนายความ
+DESC : 
+EXAMPLE : 
+
+工程师
+วิศวกร
+DESC : 
+EXAMPLE : 
+
+设计师
+นักออกแบบ
+DESC : 
+EXAMPLE : 
+
+建筑师
+สถาปนิก
+DESC : 
+EXAMPLE : 
+
+会计师
+นักบัญชี
+DESC : 
+EXAMPLE : 
+
+药剂师
+เภสัชกร
+DESC : 
+EXAMPLE : 
+
+摄影师
+ช่างภาพ
+DESC : 
+EXAMPLE : 
+
+理发师
+ช่างทำผม
+DESC : 
+EXAMPLE : 
+
+作家
+นักเขียน/นักประพันธ์
+DESC : 
+EXAMPLE : 
+
+画家
+จิตกร
+DESC : 
+EXAMPLE : 
+
+漫画家
+นักเขียยนการ์ตูน
+DESC : 
+EXAMPLE : 
+
+翻译家
+นักแปล
+DESC : 
+EXAMPLE : 
+
+音乐家
+นักดนตรี
+DESC : 
+EXAMPLE : 
+
+科学家
+นักวิทยาศาสตร์
+DESC : 
+EXAMPLE : 
+
+政治家
+นักการเมือง
+DESC : 
+EXAMPLE : 
+
+歌手
+นักร้อง
+DESC : 
+EXAMPLE : 
+
+经理
+ผู้จัดการ
+DESC : 
+EXAMPLE : 
+
+总理
+นายกรัฐมนตรี
+DESC : 
+EXAMPLE : 
+
+总统
+ประธานาธิบดี
+DESC : 
+EXAMPLE : 
+
+记者
+นักข่าว
+DESC : 
+EXAMPLE : 
+
+医生
+หมอ/แพทย์	
+DESC : 
+EXAMPLE : 
+
+牙医
+ทันตแพทย์
+DESC : 
+EXAMPLE : 
+
+护士
+พยาบาล
+DESC : 
+EXAMPLE : 
+
+农民
+เกษตรกร
+DESC : 
+EXAMPLE : 
+
+牧民
+ปศุกร
+DESC : 
+EXAMPLE : 
+
+渔民
+ชาวประมง
+DESC : 
+EXAMPLE : 
+
+商人
+นักธุรกิจ
+DESC : 
+EXAMPLE : 
+
+编辑
+บรรณาธิการ
+DESC : 
+EXAMPLE : 
+
+警察
+ตำรวจ
+DESC : 
+EXAMPLE : 
+
+士兵
+ทหาร
+DESC : 
+EXAMPLE : 
+
+法官
+ผู้พิพากษา
+DESC : 
+EXAMPLE : 
+
+外交官
+เจ้าหน้าที่การทูต
+DESC : 
+EXAMPLE : 
+
+秘书
+เลขานุการ
+DESC : 
+EXAMPLE : 
+
+售货员
+พนักงานขาย
+DESC : 
+EXAMPLE : 
+
+服务员
+พนักงานบริการ
+DESC : 
+EXAMPLE : 
+
+公务员
+ข้าราชการ	
+DESC : 
+EXAMPLE : 
+
+公司职员
+พนักงานบริษัท
+DESC : 
+EXAMPLE : 
+
+熊
+หมี
+DESC : 
+EXAMPLE : 
+
+熊猫
+หมีแพนด้า
+DESC : 
+EXAMPLE : 
+
+大象
+ช้าง
+DESC : 
+EXAMPLE : 
+
+老鼠
+หนู
+DESC : 
+EXAMPLE : 
+
+松鼠
+กระรอก
+DESC : 
+EXAMPLE : 
+
+袋鼠
+จิงโจ้
+DESC : 
+EXAMPLE : 
+
+牛
+วัว
+DESC : 
+EXAMPLE : 
+
+野牛
+วัวกระทิง
+DESC : 
+EXAMPLE : 
+
+老虎
+เสือ
+DESC : 
+EXAMPLE : 
+
+黑虎
+เสือดำ
+DESC : 
+EXAMPLE : 
+
+白虎
+เสือขาว
+DESC : 
+EXAMPLE : 
+
+豹子
+เสือดาว
+DESC : 
+EXAMPLE : 
+
+印度豹
+เสือชีต้าร์
+DESC : 
+EXAMPLE : 
+
+狮子
+สิงโต
+DESC : 
+EXAMPLE : 
+
+海狮
+สิงโตทะเล
+DESC : 
+EXAMPLE : 
+
+兔子
+กระต่าย
+DESC : 
+EXAMPLE : 
+
+野兔
+กระต่ายป่า
+DESC : 
+EXAMPLE : 
+
+蛇
+งู
+DESC : 
+EXAMPLE : 
+
+眼镜蛇
+งูเห่า
+DESC : 
+EXAMPLE : 
+
+眼镜王蛇
+งูจงอาง
+DESC : 
+EXAMPLE : 
+
+马
+ม้า
+DESC : 
+EXAMPLE : 
+
+斑马
+ม้าลาย
+DESC : 
+EXAMPLE : 
+
+海马
+ม้าน้ำ
+DESC : 
+EXAMPLE : 
+
+山羊
+แพะ
+DESC : 
+EXAMPLE : 
+
+绵羊
+แกะ
+DESC : 
+EXAMPLE : 
+
+猴子
+ลิง
+DESC : 
+EXAMPLE : 
+
+大猩猩
+ลิงกาลิล่า
+DESC : 
+EXAMPLE : 
+
+鸡
+ไก่
+DESC : 
+EXAMPLE : 
+
+狗
+สุนัข
+DESC : 
+EXAMPLE : 
+
+狼
+หมาป่า
+DESC : 
+EXAMPLE : 
+
+狐狸
+หมาจิ้งจอก
+DESC : 
+EXAMPLE : 
+
+猫
+แมว
+DESC : 
+EXAMPLE : 
+
+海豹
+แมวน้ำ
+DESC : 
+EXAMPLE : 
+
+猪
+หมู
+DESC : 
+EXAMPLE : 
+
+鳄鱼
+จระเข้
+DESC : 
+EXAMPLE : 
+
+长颈鹿
+ยีราฟ
+DESC : 
+EXAMPLE : 
+
+鹿
+กวาง
+DESC : 
+EXAMPLE : 
+
+驯鹿
+กวางเรนเดียร์
+DESC : 
+EXAMPLE : 
+
+鸟
+นก
+DESC : 
+EXAMPLE : 
+
+燕子
+นกนางแอ่น
+DESC : 
+EXAMPLE : 
+
+乌鸦
+อีกา
+DESC : 
+EXAMPLE : 
+
+秃鹫
+แร้ง
+DESC : 
+EXAMPLE : 
+
+鸢
+เหยี่ยว
+DESC : 
+EXAMPLE : 
+
+鹅
+ห่าน
+DESC : 
+EXAMPLE : 
+
+天鹅
+หงส์
+DESC : 
+EXAMPLE : 
+
+凤
+หงส์
+DESC : 
+EXAMPLE : 
+
+鱼
+ปลา
+DESC : 
+EXAMPLE : 
+
+鲸
+ปลาวาฬ
+DESC : 
+EXAMPLE : 
+
+海豚
+ปลาโลมา
+DESC : 
+EXAMPLE : 
+
+鲨鱼
+ปลาฉลาม
+DESC : 
+EXAMPLE : 
+
+儒艮
+ปลาพะยูน
+DESC : 
+EXAMPLE : 
+
+鳐鱼
+ปลากระเบน
+DESC : 
+EXAMPLE : 
+
+鲈鱼
+ปลากระพง
+DESC : 
+EXAMPLE : 
+
+金鱼
+ปลาทอง
+DESC : 
+EXAMPLE : 
+
+斗鱼
+ปลากัด
+DESC : 
+EXAMPLE : 
+
+海星
+ปลาดา
+DESC : 
+EXAMPLE : 
+
+鱿鱼
+ปลาหมึก
+DESC : 
+EXAMPLE : 
+
+虾
+กุ้ง
+DESC : 
+EXAMPLE : 
+
+龙虾
+กุ้งมังกร
+DESC : 
+EXAMPLE : 
+
+河虾
+กุ้งแม่น้ำ
+DESC : 
+EXAMPLE : 
+
+蟹
+ปู
+DESC : 
+EXAMPLE : 
+
+海蟹
+ปูทะเล
+DESC : 
+EXAMPLE : 
+
+蚌
+หอย
+DESC : 
+EXAMPLE : 
+
+蜗牛
+หอยทาก
+DESC : 
+EXAMPLE : 
+
+乌龟
+เต่า
+DESC : 
+EXAMPLE : 
+
+鳖
+ตะพาบน้ำ
+DESC : 
+EXAMPLE : 
+
+蛋焦
+กล้วยไข่
+DESC : 
+EXAMPLE : 
+
+青蛙
+กบ
+DESC : 
+EXAMPLE : 
+
+粉焦
+กล้วยน้ำว้า
+DESC : 
+EXAMPLE : 
+
+水果
+ผลไม้
+DESC : 
+EXAMPLE : 
+
+山竹
+มังคุด
+DESC : 
+EXAMPLE : 
+
+龙眼
+ลำไย
+DESC : 
+EXAMPLE : 
+
+香蕉
+กล้วยหอม
+DESC : 
+EXAMPLE : 
+
+桂圆
+ลำไย
+DESC : 
+EXAMPLE : 
+
+奇异果 
+กีวี
+DESC : 
+EXAMPLE : 
+
+荔枝
+ลิ้นจี่
+DESC : 
+EXAMPLE : 
+
+橘子
+ส้ม
+DESC : 
+EXAMPLE : 
+
+火龙果
+แก้วมังกร
+DESC : 
+EXAMPLE : 
+
+橙子
+ส้มเช้ง
+DESC : 
+EXAMPLE : 
+
+柚子
+ส้มโอ
+DESC : 
+EXAMPLE : 
+
+柠檬
+มะนาว
+DESC : 
+EXAMPLE : 
+
+椰子
+มะพร้าว
+DESC : 
+EXAMPLE : 
+
+波罗蜜
+ขนุน
+DESC : 
+EXAMPLE : 
+
+菠萝
+สับปะรด
+DESC : 
+EXAMPLE : 
+
+红毛丹
+เงาะ
+DESC : 
+EXAMPLE : 
+
+凤梨
+สับปะรด
+DESC : 
+EXAMPLE : 
+
+樱桃
+เชอร์รี่
+DESC : 
+EXAMPLE : 
+
+樱桃
+เชอร์รี่
+DESC : 
+EXAMPLE : 
+
+草莓
+สตรอเบอร์รี่
+DESC : 
+EXAMPLE : 
+
+蓝莓
+บลูเบอร์รี่
+DESC : 
+EXAMPLE : 
+
+甜瓜
+แตงไทย
+DESC : 
+EXAMPLE : 
+
+西瓜
+แตงโม
+DESC : 
+EXAMPLE : 
+
+黑莓
+แบล็กเบอร์รี่
+DESC : 
+EXAMPLE : 
+
+西瓜
+แตงโม
+DESC : 
+EXAMPLE : 
+
+哈密瓜
+แคนตาลูป
+DESC : 
+EXAMPLE : 
+
+芒果
+มะม่วง
+DESC : 
+EXAMPLE : 
+
+石榴
+ทับทิม
+DESC : 
+EXAMPLE : 
+
+榴莲
+ทุเรียน
+DESC : 
+EXAMPLE : 
+
+番荔枝
+น้อยหน่า
+DESC : 
+EXAMPLE : 
+
+番石榴
+ฝรั่ง
+DESC : 
+EXAMPLE : 
+
+红枣
+พุทราแดง
+DESC : 
+EXAMPLE : 
+
+苹果
+แอปเปิ้ล
+DESC : 
+EXAMPLE : 
+
+罗望子
+มะขาม
+DESC : 
+EXAMPLE : 
+
+酥梨
+สาลี่
+DESC : 
+EXAMPLE : 
+
+酸豆
+มะขาม
+DESC : 
+EXAMPLE : 
+
+香蕉
+กล้วยหอม	
+DESC : 
+EXAMPLE : 
+
+柠檬
+มะนาว
+DESC : 
+EXAMPLE : 
+
+榴莲
+ทุเรียน
+DESC : 
+EXAMPLE : 
+
+葡萄
+องุ่น
+DESC : 
+EXAMPLE : 
+
+椰子
+มะพร้าว
+DESC : 
+EXAMPLE : 
+
+木瓜
+มะละกอ
+DESC : 
+EXAMPLE : 
+
+猕猴桃
+กีวี่
+DESC : 
+EXAMPLE : 
+
+青椰
+มะพร้าวอ่อน
+DESC : 
+EXAMPLE : 
+
+火龙果
+แก้วมังกร
+DESC : 
+EXAMPLE : 
+
+杨桃
+มะเฟือง
+DESC : 
+EXAMPLE : 
+
+菠萝蜜
+ขนุน
+DESC : 
+EXAMPLE : 
+
+红毛丹
+เงาะ
+DESC : 
+EXAMPLE : 
+
+莲雾
+ชมพู่
+DESC : 
+EXAMPLE : 
+
+芒果
+มะม่วง
+DESC : 
+EXAMPLE : 
+
+桃子
+ลูกท้อ
+DESC : 
+EXAMPLE : 
+
+木瓜
+มะละกอ
+DESC : 
+EXAMPLE : 
+
+柿子
+ลูกพลับ
+DESC : 
+EXAMPLE : 
+
+枣儿
+พุทราจีน
+DESC : 
+EXAMPLE : 
+
+山竹
+มังคุด
+DESC : 
+EXAMPLE : 
+
+荸荠
+แห้ว
+DESC : 
+EXAMPLE : 
+
+白果
+แปะก้วย
+DESC : 
+EXAMPLE : 
+
+人心果
+ละมุด
+DESC : 
+EXAMPLE : 
+
+甘蔗
+อ้อย
+DESC : 
+EXAMPLE : 
+
+龙眼
+ลำไย
+DESC : 
+EXAMPLE : 
+
+弟弟
+น้องชาย
+DESC : 
+EXAMPLE : 
+
+哥哥
+พี่ชาย
+DESC : 
+EXAMPLE : 
+
+杏子
+แอปริคอท
+DESC : 
+EXAMPLE : 
+
+荔枝
+ลิ้นจี่
+DESC : 
+EXAMPLE : 
+
+石榴
+ทับทิม
+DESC : 
+EXAMPLE : 
+
+桃子
+ลูกท้อ
+DESC : 
+EXAMPLE : 
+
+凉薯
+มันแกว
+DESC : 
+EXAMPLE : 
+
+番石榴
+ฝรั่ง
+DESC : 
+EXAMPLE : 
+
+柿子
+ลูกพลับ
+DESC : 
+EXAMPLE : 
+
+草莓
+สตรอเบอรี่
+DESC : 
+EXAMPLE : 
+
+橘子
+ส้ม
+DESC : 
+EXAMPLE : 
+
+柚子
+ส้มโอ
+DESC : 
+EXAMPLE : 
+
+菠萝
+สัปปะรด
+DESC : 
+EXAMPLE : 
+
+凤梨
+สัปปะรด
+DESC : 
+EXAMPLE : 
+
+梨
+สาลี่
+DESC : 
+EXAMPLE : 
+
+马蹄
+แห้ว
+DESC : 
+EXAMPLE : 
+
+葡萄
+องุ่น
+DESC : 
+EXAMPLE : 
+
+苹果
+แอปเปิ้ล
+DESC : 
+EXAMPLE : 
+
+不好意思
+ขอโทษ
+DESC : 
+EXAMPLE : 
+
+吃饭
+กินข้าว
+DESC : 
+EXAMPLE : 
+
+唉
+เฮ่อ
+DESC : 
+EXAMPLE : 
+
+手心
+อุ้งมือ
+DESC : 
+EXAMPLE : 
+
+拳
+กำปั้น
+DESC : 
+EXAMPLE : 
+
+臂弯
+ข้อพับ
+DESC : 
+EXAMPLE : 
+
+手腕
+ข้อมือ
+DESC : 
+EXAMPLE : 
+
+臂肘
+ข้อศอก
+DESC : 
+EXAMPLE : 
+
+手臂
+แขน
+DESC : 
+EXAMPLE : 
+
+上臂
+ต้นแขน
+DESC : 
+EXAMPLE : 
+
+中指
+นิ้วกลาง
+DESC : 
+EXAMPLE : 
+
+小指
+นิ้วก้อย
+DESC : 
+EXAMPLE : 
+
+食指
+นิ้วชี้
+DESC : 
+EXAMPLE : 
+
+无名指
+นิ้วนาง
+DESC : 
+EXAMPLE : 
+
+手指
+นิ้วมือ
+DESC : 
+EXAMPLE : 
+
+拇指
+นิ้วหัวแม่มือ
+DESC : 
+EXAMPLE : 
+
+指尖
+ปลายนิ้ว
+DESC : 
+EXAMPLE : 
+
+手掌
+ฝ่ามือ
+DESC : 
+EXAMPLE : 
+
+手
+มือ
+DESC : 
+EXAMPLE : 
+
+右手
+มือขวา
+DESC : 
+EXAMPLE : 
+
+左手
+มือซ้าย
+DESC : 
+EXAMPLE : 
+
+指甲
+เล็บมือ
+DESC : 
+EXAMPLE : 
+
+生命线
+เส้นชีวิต
+DESC : 
+EXAMPLE : 
+
+智慧线
+เส้นสมอง
+DESC : 
+EXAMPLE : 
+
+感情线
+เส้นหัวใจ
+DESC : 
+EXAMPLE : 
+
+手背
+หลังมือ
+DESC : 
+EXAMPLE : 
+
+爱好
+งานอดิเรก
+DESC : 
+EXAMPLE : 
+
+奥运会
+การแข่งขันกีฬาโอลิมปิก
+DESC : 
+EXAMPLE : 
+
+爸爸
+พ่อ
+DESC : 
+EXAMPLE : 
+
+半
+ครึ่ง
+DESC : 
+EXAMPLE : 
+
+包裹
+พัสดุ/หีบห่อ
+DESC : 
+EXAMPLE : 
+
+抱歉
+ขอโทษ
+DESC : 
+EXAMPLE : 
+
+北京
+ปักกิ่ง
+DESC : 
+EXAMPLE : 
+
+标准间
+ห้องมาตรฐาน
+DESC : 
+EXAMPLE : 
+
+别
+อย่า
+DESC : 
+EXAMPLE : 
+
+冰淇淋
+ไอศกรีม
+DESC : 
+EXAMPLE : 
+
+不
+ไม่
+DESC : 
+EXAMPLE : 
+
+部
+เรื่อง
+DESC : 
+EXAMPLE : 
+
+不好意思
+ขอโทษ
+DESC : 
+EXAMPLE : 
+
+擦
+เช็ด/ถู
+DESC : 
+EXAMPLE : 
+
+菜
+ผัก/กับข้าว
+DESC : 
+EXAMPLE : 
+
+参加
+เข้าร่วม
+DESC : 
+EXAMPLE : 
+
+差劲
+แย่/ใช้ไม่ได้
+DESC : 
+EXAMPLE : 
+
+长
+นาน/ยาวนาน
+DESC : 
+EXAMPLE : 
+
+车
+รถ
+DESC : 
+EXAMPLE : 
+
+车祸
+อุบัติเหตุทางรถยนต์
+DESC : 
+EXAMPLE : 
+
+车闸
+เบรกรถ
+DESC : 
+EXAMPLE : 
+
+乘
+โดยสาร
+DESC : 
+EXAMPLE : 
+
+成绩
+ผลสอบ
+DESC : 
+EXAMPLE : 
+
+吃
+กิน
+DESC : 
+EXAMPLE : 
+
+吃饭
+กินข้าว
+DESC : 
+EXAMPLE : 
+
+抽
+สูบ
+DESC : 
+EXAMPLE : 
+
+出
+ออก
+DESC : 
+EXAMPLE : 
+
+穿
+สวม/ใส่
+DESC : 
+EXAMPLE : 
+
+传统
+ประเพณีโบราณ
+DESC : 
+EXAMPLE : 
+
+错
+ผิด
+DESC : 
+EXAMPLE : 
+
+打
+ตี/เล่น
+DESC : 
+EXAMPLE : 
+
+打开
+เปิด
+DESC : 
+EXAMPLE : 
+
+打算
+วางแผน
+DESC : 
+EXAMPLE : 
+
+大
+ใหญ่
+DESC : 
+EXAMPLE : 
+
+大概
+ประมาณ
+DESC : 
+EXAMPLE : 
+
+大学
+มหาวิทยาลัย
+DESC : 
+EXAMPLE : 
+
+蛋糕
+ขนมเค้ก
+DESC : 
+EXAMPLE : 
+
+但是
+แต่
+DESC : 
+EXAMPLE : 
+
+当
+เป็น
+DESC : 
+EXAMPLE : 
+
+当然
+แน่นอน
+DESC : 
+EXAMPLE : 
+
+倒霉
+โชคไม่ดี/โชคร้าย
+DESC : 
+EXAMPLE : 
+
+到
+ถึง/ไปถึง
+DESC : 
+EXAMPLE : 
+
+等
+รอ/คอย
+DESC : 
+EXAMPLE : 
+
+低
+ต่ำ
+DESC : 
+EXAMPLE : 
+
+弟弟
+น้องชาย
+DESC : 
+EXAMPLE : 
+
+地方
+สถานที่
+DESC : 
+EXAMPLE : 
+
+地铁
+รถไฟใต้ดิน
+DESC : 
+EXAMPLE : 
+
+点
+โมง/นาฬิกา 
+DESC : 
+EXAMPLE : 
+
+电影
+ภาพยนตร์/หนัง
+DESC : 
+EXAMPLE : 
+
+订
+จอง
+DESC : 
+EXAMPLE : 
+
+东西
+ของ/สิ่งของ
+DESC : 
+EXAMPLE : 
+
+动物园
+สวนสัตว์
+DESC : 
+EXAMPLE : 
+
+都
+ทั้งหมด
+DESC : 
+EXAMPLE : 
+
+读书
+เรียนหนังสือ
+DESC : 
+EXAMPLE : 
+
+肚子
+ท้อง
+DESC : 
+EXAMPLE : 
+
+对
+เผชิญหน้า
+DESC : 
+EXAMPLE : 
+
+对外
+สำหรับต่างชาติ
+DESC : 
+EXAMPLE : 
+
+多
+มาก
+DESC : 
+EXAMPLE : 
+
+多少
+เท่าไหร่
+DESC : 
+EXAMPLE : 
+
+嗯
+อืม/เอ่อ
+DESC : 
+EXAMPLE : 
+
+法国
+ห้อง
+DESC : 
+EXAMPLE : 
+
+放假
+วันหยุด
+DESC : 
+EXAMPLE : 
+
+非常
+มาก/ไม่ธรรมดา
+DESC : 
+EXAMPLE : 
+
+分
+นาที
+DESC : 
+EXAMPLE : 
+
+份
+ที่/ชุด
+DESC : 
+EXAMPLE : 
+
+风景
+ทิวทัศน์
+DESC : 
+EXAMPLE : 
+
+感谢
+ขอบคุณ
+DESC : 
+EXAMPLE : 
+
+高兴
+ดีใจ/ยินดี
+DESC : 
+EXAMPLE : 
+
+告别
+บอกลา
+DESC : 
+EXAMPLE : 
+
+个
+อัน/ชิ้น/คน
+DESC : 
+EXAMPLE : 
+
+跟
+กับ/และ
+DESC : 
+EXAMPLE : 
+
+更
+กว่า
+DESC : 
+EXAMPLE : 
+
+公共汽车
+รถโดยสารประจำทาง
+DESC : 
+EXAMPLE : 
+
+工作
+ทำงาน
+DESC : 
+EXAMPLE : 
+
+狗
+สุนัข
+DESC : 
+EXAMPLE : 
+
+故宫
+พระราชวังต้องห้าม 
+DESC : 
+EXAMPLE : 
+
+故意
+จงใจ
+DESC : 
+EXAMPLE : 
+
+光
+หมด
+DESC : 
+EXAMPLE : 
+
+规则
+กฎ/ระเบียบ
+DESC : 
+EXAMPLE : 
+
+贵
+มีค่า/สูงค่า
+DESC : 
+EXAMPLE : 
+
+国
+ประเทศ
+DESC : 
+EXAMPLE : 
+
+过
+ข้าม/ผ่าน
+DESC : 
+EXAMPLE : 
+
+过年
+ตรุษจีน
+DESC : 
+EXAMPLE : 
+
+还
+ยัง
+DESC : 
+EXAMPLE : 
+
+还是
+หรือ
+DESC : 
+EXAMPLE : 
+
+海运
+การขนส่งทางทะเล
+DESC : 
+EXAMPLE : 
+
+汉语
+ภาษาจีน
+DESC : 
+EXAMPLE : 
+
+好
+ดี
+DESC : 
+EXAMPLE : 
+
+号
+หมายเลข
+DESC : 
+EXAMPLE : 
+
+和
+และ/กับ
+DESC : 
+EXAMPLE : 
+
+嘿
+เฮ้ย
+DESC : 
+EXAMPLE : 
+
+很
+มาก
+DESC : 
+EXAMPLE : 
+
+护照
+หนังสือเดินทาง
+DESC : 
+EXAMPLE : 
+
+花儿
+ดอกไม้
+DESC : 
+EXAMPLE : 
+
+滑冰
+เล่นสเกต
+DESC : 
+EXAMPLE : 
+
+画画
+วาดรูป
+DESC : 
+EXAMPLE : 
+
+坏
+เสีย
+DESC : 
+EXAMPLE : 
+
+换
+แลก
+DESC : 
+EXAMPLE : 
+
+回
+กลับ
+DESC : 
+EXAMPLE : 
+
+极
+มาก
+DESC : 
+EXAMPLE : 
+
+几
+ส่วนน้อย
+DESC : 
+EXAMPLE : 
+
+计划
+แผนการ/โครงการ
+DESC : 
+EXAMPLE : 
+
+家
+บ้าน/ครอบครัว
+DESC : 
+EXAMPLE : 
+
+家人
+คนที่บ้าน/สมาชิกในครอบครัว
+DESC : 
+EXAMPLE : 
+
+加油
+สู้ๆ
+DESC : 
+EXAMPLE : 
+
+假期
+วันหยุด/ช่วงวันหยุด
+DESC : 
+EXAMPLE : 
+
+件
+ชุด
+DESC : 
+EXAMPLE : 
+
+交
+จ่าย/ชำระ
+DESC : 
+EXAMPLE : 
+
+交通
+คมนาคม/การจราจร
+DESC : 
+EXAMPLE : 
+
+叫
+เรียก
+DESC : 
+EXAMPLE : 
+
+节日
+วันหยุดเทศกาล
+DESC : 
+EXAMPLE : 
+
+姐姐
+พี่สาว
+DESC : 
+EXAMPLE : 
+
+斤
+ชั่ง
+DESC : 
+EXAMPLE : 
+
+今天
+วันนี้
+DESC : 
+EXAMPLE : 
+
+尽量
+สุดความสามารถ
+DESC : 
+EXAMPLE : 
+
+近
+ใกล้
+DESC : 
+EXAMPLE : 
+
+京剧
+งิ้ว
+DESC : 
+EXAMPLE : 
+
+惊喜
+ประหลาดใจ
+DESC : 
+EXAMPLE : 
+
+九寨沟
+จิ่วไจ้โกว
+DESC : 
+EXAMPLE : 
+
+就
+ก็
+DESC : 
+EXAMPLE : 
+
+聚会
+งานสังสรรค์
+DESC : 
+EXAMPLE : 
+
+觉得
+รู้สึก
+DESC : 
+EXAMPLE : 
+
+决定
+ตัดสินใจ
+DESC : 
+EXAMPLE : 
+
+咖啡机
+เครื่องชงกาแฟ
+DESC : 
+EXAMPLE : 
+
+看
+ดู/มอง
+DESC : 
+EXAMPLE : 
+
+看法
+ความเห็น
+DESC : 
+EXAMPLE : 
+
+看起来
+ดูแล้ว/ดูเหมือน
+DESC : 
+EXAMPLE : 
+
+考
+สอบ
+DESC : 
+EXAMPLE : 
+
+考试
+การสอบ
+DESC : 
+EXAMPLE : 
+
+烤鸭
+เป็ดย่าง
+DESC : 
+EXAMPLE : 
+
+咳嗽
+ไอ
+DESC : 
+EXAMPLE : 
+
+可以
+ได้
+DESC : 
+EXAMPLE : 
+
+课
+บทเรียน
+DESC : 
+EXAMPLE : 
+
+空
+ว่าง
+DESC : 
+EXAMPLE : 
+
+空气
+อากาศ
+DESC : 
+EXAMPLE : 
+
+空调
+เครื่องปรับอากาศ
+DESC : 
+EXAMPLE : 
+
+空运
+การขนส่งทางอากาศ
+DESC : 
+EXAMPLE : 
+
+恐怖
+น่ากลัว/สยองขวัญ
+DESC : 
+EXAMPLE : 
+
+口
+คน
+DESC : 
+EXAMPLE : 
+
+块
+หยวน
+DESC : 
+EXAMPLE : 
+
+快
+เร็ว
+DESC : 
+EXAMPLE : 
+
+快乐
+มีความสุข
+DESC : 
+EXAMPLE : 
+
+款
+รุ่น/แบบ
+DESC : 
+EXAMPLE : 
+
+来
+มา
+DESC : 
+EXAMPLE : 
+
+篮球
+บาสเกตบอล
+DESC : 
+EXAMPLE : 
+
+蓝色
+สีฟ้า
+DESC : 
+EXAMPLE : 
+
+老师
+อาจารย์
+DESC : 
+EXAMPLE : 
+
+里面
+ข้างใน
+DESC : 
+EXAMPLE : 
+
+礼物
+ของขวัญ
+DESC : 
+EXAMPLE : 
+
+厉害
+ร้ายแรง
+DESC : 
+EXAMPLE : 
+
+联系
+ติดต่อ
+DESC : 
+EXAMPLE : 
+
+脸谱
+หน้ากากงิ้ว
+DESC : 
+EXAMPLE : 
+
+练
+ฝึกฝน
+DESC : 
+EXAMPLE : 
+
+了解
+เข้าใจ
+DESC : 
+EXAMPLE : 
+
+留
+เหลือไว้
+DESC : 
+EXAMPLE : 
+
+路
+ถนน/ทาง
+DESC : 
+EXAMPLE : 
+
+路口
+ปากทาง
+DESC : 
+EXAMPLE : 
+
+妈妈
+แม่
+DESC : 
+EXAMPLE : 
+
+麻烦
+รบกวน
+DESC : 
+EXAMPLE : 
+
+马上
+ทันที
+DESC : 
+EXAMPLE : 
+
+买
+ซื้อ
+DESC : 
+EXAMPLE : 
+
+卖
+ขาย
+DESC : 
+EXAMPLE : 
+
+慢
+ช้า
+DESC : 
+EXAMPLE : 
+
+忙
+ยุ่ง
+DESC : 
+EXAMPLE : 
+
+没
+ไม่มี
+DESC : 
+EXAMPLE : 
+
+没关系
+ไม่เป็นไร
+DESC : 
+EXAMPLE : 
+
+美
+สวยงาม
+DESC : 
+EXAMPLE : 
+
+美元
+เงินดอลลาร์สหรัฐ
+DESC : 
+EXAMPLE : 
+
+妹妹
+น้องสาว
+DESC : 
+EXAMPLE : 
+
+免
+ยกเว้น
+DESC : 
+EXAMPLE : 
+
+明天
+พรุ่งนี้
+DESC : 
+EXAMPLE : 
+
+名字
+ชื่อ
+DESC : 
+EXAMPLE : 
+
+哪儿
+ที่ไหน
+DESC : 
+EXAMPLE : 
+
+哪天
+วันไหน
+DESC : 
+EXAMPLE : 
+
+那
+นั่น
+DESC : 
+EXAMPLE : 
+
+那儿
+ที่นั่น
+DESC : 
+EXAMPLE : 
+
+能
+สามารถ/ได้
+DESC : 
+EXAMPLE : 
+
+你
+คุณ/เธอ
+DESC : 
+EXAMPLE : 
+
+你们
+พวกคุณ/พวกเธอ
+DESC : 
+EXAMPLE : 
+
+您
+ท่าน
+DESC : 
+EXAMPLE : 
+
+努力
+ขยัน
+DESC : 
+EXAMPLE : 
+
+哦
+อ้อ
+DESC : 
+EXAMPLE : 
+
+爬山
+ปีนเขา
+DESC : 
+EXAMPLE : 
+
+票
+บัตร/ตั๋ว
+DESC : 
+EXAMPLE : 
+
+漂亮
+สวย
+DESC : 
+EXAMPLE : 
+
+品位
+ปิงปอง
+DESC : 
+EXAMPLE : 
+
+苹果
+แอปเปิ้ล
+DESC : 
+EXAMPLE : 
+
+平时
+ปกติ
+DESC : 
+EXAMPLE : 
+
+葡萄
+องุ่น
+DESC : 
+EXAMPLE : 
+
+骑
+ขี่
+DESC : 
+EXAMPLE : 
+
+前
+ด้านหน้า
+DESC : 
+EXAMPLE : 
+
+钱
+เงิน
+DESC : 
+EXAMPLE : 
+
+前面
+ด้านหน้า/ข้างหน้า
+DESC : 
+EXAMPLE : 
+
+巧
+บังเอิญ
+DESC : 
+EXAMPLE : 
+
+晴天
+ท้องฟ้าปลอดโปร่ง
+DESC : 
+EXAMPLE : 
+
+请
+เชิญ
+DESC : 
+EXAMPLE : 
+
+取
+เบิก
+DESC : 
+EXAMPLE : 
+
+去
+ไป
+DESC : 
+EXAMPLE : 
+
+让开
+หลีกทาง
+DESC : 
+EXAMPLE : 
+
+人
+คน
+DESC : 
+EXAMPLE : 
+
+人们
+คน
+DESC : 
+EXAMPLE : 
+
+人民币
+เงินสกุลเหรินหมินปี้
+DESC : 
+EXAMPLE : 
+
+认识
+รู้จัก
+DESC : 
+EXAMPLE : 
+
+认为
+คิดว่า
+DESC : 
+EXAMPLE : 
+
+山清水秀
+เขาสวยน้ำใส
+DESC : 
+EXAMPLE : 
+
+赏
+ชม/ชื่นชม
+DESC : 
+EXAMPLE : 
+
+稍
+สักครู่
+DESC : 
+EXAMPLE : 
+
+少
+น้อย
+DESC : 
+EXAMPLE : 
+
+身体
+ร่างกาย
+DESC : 
+EXAMPLE : 
+
+什么
+อะไร
+DESC : 
+EXAMPLE : 
+
+生日
+วันเกิด
+DESC : 
+EXAMPLE : 
+
+时间
+ระยะเวลา
+DESC : 
+EXAMPLE : 
+
+实在
+จริงๆ
+DESC : 
+EXAMPLE : 
+
+是
+คือ/เป็น/_
+DESC : 
+EXAMPLE : 
+
+试
+ลอง
+DESC : 
+EXAMPLE : 
+
+书法
+ศิลปะการเขียนพู่กันจีน
+DESC : 
+EXAMPLE : 
+
+舒服
+สบาย
+DESC : 
+EXAMPLE : 
+
+谁
+ใคร
+DESC : 
+EXAMPLE : 
+
+水煮肉片
+หมูต้มทรงเครื่อง
+DESC : 
+EXAMPLE : 
+
+说
+พูด
+DESC : 
+EXAMPLE : 
+
+送
+ส่ง
+DESC : 
+EXAMPLE : 
+
+送给
+มอบให้
+DESC : 
+EXAMPLE : 
+
+宿舍楼
+อาคารหอพัก
+DESC : 
+EXAMPLE : 
+
+所以
+ดังนั้น
+DESC : 
+EXAMPLE : 
+
+它
+มัน
+DESC : 
+EXAMPLE : 
+
+太
+เกินไป
+DESC : 
+EXAMPLE : 
+
+太极拳
+ไท้เก๊ก
+DESC : 
+EXAMPLE : 
+
+讨厌
+เกลียด/รังเกียจ
+DESC : 
+EXAMPLE : 
+
+特别
+พิเศษ
+DESC : 
+EXAMPLE : 
+
+疼
+ปวด/เจ็บ
+DESC : 
+EXAMPLE : 
+
+天
+วัน
+DESC : 
+EXAMPLE : 
+
+天安门
+จัตุรัสเทียนอันเหมิน
+DESC : 
+EXAMPLE : 
+
+天气
+สภาพอากาศ
+DESC : 
+EXAMPLE : 
+
+听说
+ได้ยินว่า
+DESC : 
+EXAMPLE : 
+
+图书馆
+ห้องสมุด
+DESC : 
+EXAMPLE : 
+
+团圆
+การรวมตัว
+DESC : 
+EXAMPLE : 
+
+哇
+โอ้/ว้าว
+DESC : 
+EXAMPLE : 
+
+玩儿
+เที่ยว/เล่น
+DESC : 
+EXAMPLE : 
+
+晚
+สาย/ดึก
+DESC : 
+EXAMPLE : 
+
+晚上
+ตอนกลางคืน
+DESC : 
+EXAMPLE : 
+
+位
+ท่าน
+DESC : 
+EXAMPLE : 
+
+喂
+ฮัลโหล
+DESC : 
+EXAMPLE : 
+
+为
+เพื่อ
+DESC : 
+EXAMPLE : 
+
+为什么
+ทำไม
+DESC : 
+EXAMPLE : 
+
+问
+ถาม
+DESC : 
+EXAMPLE : 
+
+问候
+ทักทาย
+DESC : 
+EXAMPLE : 
+
+问题
+ปัญหา
+DESC : 
+EXAMPLE : 
+
+我
+ฉัน
+DESC : 
+EXAMPLE : 
+
+我们
+พวกเรา
+DESC : 
+EXAMPLE : 
+
+希望
+หวังว่า
+DESC : 
+EXAMPLE : 
+
+喜欢
+ชอบ
+DESC : 
+EXAMPLE : 
+
+下
+ต่อไป
+DESC : 
+EXAMPLE : 
+
+下次
+ครั้งต่อไป
+DESC : 
+EXAMPLE : 
+
+夏威夷
+ฮาวาย
+DESC : 
+EXAMPLE : 
+
+线
+สาย
+DESC : 
+EXAMPLE : 
+
+现金
+เงินสด
+DESC : 
+EXAMPLE : 
+
+现在
+ขณะนี้
+DESC : 
+EXAMPLE : 
+
+香山
+ภูเขาเซียงซาน
+DESC : 
+EXAMPLE : 
+
+想
+อยากจะ
+DESC : 
+EXAMPLE : 
+
+想念
+คิดถึง
+DESC : 
+EXAMPLE : 
+
+向
+ไปทาง
+DESC : 
+EXAMPLE : 
+
+小
+เล็ก
+DESC : 
+EXAMPLE : 
+
+小名
+ชื่อเล่น
+DESC : 
+EXAMPLE : 
+
+小心
+ระวัง
+DESC : 
+EXAMPLE : 
+
+些
+พวก/เหล่า
+DESC : 
+EXAMPLE : 
+
+谢
+ขอบคุณ
+DESC : 
+EXAMPLE : 
+
+新鲜
+บริสุทธิ์
+DESC : 
+EXAMPLE : 
+
+信用卡
+บัตรเครดิต
+DESC : 
+EXAMPLE : 
+
+星期
+สัปดาห์
+DESC : 
+EXAMPLE : 
+
+星期日
+วันอาทิตย์
+DESC : 
+EXAMPLE : 
+
+行
+ได้
+DESC : 
+EXAMPLE : 
+
+姓
+นามสกุล
+DESC : 
+EXAMPLE : 
+
+休息
+พักผ่อน
+DESC : 
+EXAMPLE : 
+
+学习
+เรียน/ศึกษา
+DESC : 
+EXAMPLE : 
+
+学校
+โรงเรียน
+DESC : 
+EXAMPLE : 
+
+学院
+คณะ
+DESC : 
+EXAMPLE : 
+
+押金
+ค่ามัดจำ
+DESC : 
+EXAMPLE : 
+
+烟
+บุหรี่
+DESC : 
+EXAMPLE : 
+
+颜色
+สี
+DESC : 
+EXAMPLE : 
+
+要
+ต้องการ
+DESC : 
+EXAMPLE : 
+
+药
+ยา
+DESC : 
+EXAMPLE : 
+
+也
+ก็
+DESC : 
+EXAMPLE : 
+
+衣服
+เสื้อผ้า
+DESC : 
+EXAMPLE : 
+
+一定
+แน่นอน
+DESC : 
+EXAMPLE : 
+
+颐和园
+พระราชวังฤดูร้อน 
+DESC : 
+EXAMPLE : 
+
+一路顺风
+เดินทางโดยสวัสดิภาพ
+DESC : 
+EXAMPLE : 
+
+一下
+สักหน่อย
+DESC : 
+EXAMPLE : 
+
+已经
+แล้ว
+DESC : 
+EXAMPLE : 
+
+以为
+คิดว่า
+DESC : 
+EXAMPLE : 
+
+一点儿
+นิดหน่อย
+DESC : 
+EXAMPLE : 
+
+一起
+ด้วยกัน
+DESC : 
+EXAMPLE : 
+
+意思
+ความหมาย
+DESC : 
+EXAMPLE : 
+
+应该
+ควร
+DESC : 
+EXAMPLE : 
+
+用
+ใช้
+DESC : 
+EXAMPLE : 
+
+邮
+ไปรษณีย์
+DESC : 
+EXAMPLE : 
+
+邮递
+ส่งทางไปรษณีย์
+DESC : 
+EXAMPLE : 
+
+邮局
+ที่ทำการไปรษณีย์
+DESC : 
+EXAMPLE : 
+
+有
+มี
+DESC : 
+EXAMPLE : 
+
+优秀
+ยอดเยี่ยม
+DESC : 
+EXAMPLE : 
+
+游泳
+ว่ายน้ำ
+DESC : 
+EXAMPLE : 
+
+有趣
+น่าสนใจ
+DESC : 
+EXAMPLE : 
+
+鱼香肉丝
+หมูเส้นผัดเปรี้ยวหวาน
+DESC : 
+EXAMPLE : 
+
+雨
+ฝน
+DESC : 
+EXAMPLE : 
+
+语言
+ภาษา
+DESC : 
+EXAMPLE : 
+
+预报
+การพยากรณ์
+DESC : 
+EXAMPLE : 
+
+元
+หยวน
+DESC : 
+EXAMPLE : 
+
+远
+ไกล
+DESC : 
+EXAMPLE : 
+
+约会
+การนัดหมาย
+DESC : 
+EXAMPLE : 
+
+月
+พระจันทร์
+DESC : 
+EXAMPLE : 
+
+在
+อยู่ที่
+DESC : 
+EXAMPLE : 
+
+再
+อีกครั้ง
+DESC : 
+EXAMPLE : 
+
+再见
+ลาก่อน
+DESC : 
+EXAMPLE : 
+
+糟糕
+แย่แล้ว
+DESC : 
+EXAMPLE : 
+
+早上
+ตอนเช้า
+DESC : 
+EXAMPLE : 
+
+怎么
+อย่างไร/ยังไง
+DESC : 
+EXAMPLE : 
+
+怎么样
+อย่างไร/เป็นอย่างไร
+DESC : 
+EXAMPLE : 
+
+炸酱面
+บะหมี่จ๋าเจี้ยงเมี่ยน
+DESC : 
+EXAMPLE : 
+
+站
+สถานี
+DESC : 
+EXAMPLE : 
+
+这
+นี่
+DESC : 
+EXAMPLE : 
+
+这次
+ครั้งนี้
+DESC : 
+EXAMPLE : 
+
+这儿
+ที่นี่
+DESC : 
+EXAMPLE : 
+
+这么
+อย่างนี้/ขนาดนี้
+DESC : 
+EXAMPLE : 
+
+这些
+เหล่านี้/พวกนี้
+DESC : 
+EXAMPLE : 
+
+真
+จริง
+DESC : 
+EXAMPLE : 
+
+正
+กำลัง
+DESC : 
+EXAMPLE : 
+
+只
+ตัว
+DESC : 
+EXAMPLE : 
+
+支
+แท่ง/มวน
+DESC : 
+EXAMPLE : 
+
+知道
+รู้/ทราบ
+DESC : 
+EXAMPLE : 
+
+侄子
+หลานชาย
+DESC : 
+EXAMPLE : 
+
+志愿者
+อาสาสมัคร
+DESC : 
+EXAMPLE : 
+
+中国
+ประเทศจีน
+DESC : 
+EXAMPLE : 
+
+中秋节
+เทศกาลไหว้พระจันทร์
+DESC : 
+EXAMPLE : 
+
+终于
+ในที่สุด
+DESC : 
+EXAMPLE : 
+
+周到
+รอบคอบ
+DESC : 
+EXAMPLE : 
+
+周日
+วันอาทิตย์
+DESC : 
+EXAMPLE : 
+
+周四
+วันพฤหัสบดี
+DESC : 
+EXAMPLE : 
+
+住
+อาศัย/อยู่
+DESC : 
+EXAMPLE : 
+
+祝
+ขอให้
+DESC : 
+EXAMPLE : 
+
+祝贺
+ขอแสดงความยินดี
+DESC : 
+EXAMPLE : 
+
+转
+เลี้ยว
+DESC : 
+EXAMPLE : 
+
+准备
+เตรียม
+DESC : 
+EXAMPLE : 
+
+自行车
+จักรยาน
+DESC : 
+EXAMPLE : 
+
+走
+เดิน
+DESC : 
+EXAMPLE : 
+
+最
+ที่สุด
+DESC : 
+EXAMPLE : 
+
+最近
+ช่วงนี้
+DESC : 
+EXAMPLE : 
+
+遵守
+ปฏิบัติตาม/เคารพ
+DESC : 
+EXAMPLE : 
+
+昨天
+เมื่อวาน
+DESC : 
+EXAMPLE : 
+
+左
+ซ้าย
+DESC : 
+EXAMPLE : 
+
+坐
+นั่ง
+DESC : 
+EXAMPLE : 
+
+做
+ทำ
+DESC : 
+EXAMPLE : 
+
+手心
+ อุ้งมือ
+DESC : 
+EXAMPLE : 
+
+拳
+กำปั้น
+DESC : 
+EXAMPLE : 
+
+臂弯
+ข้อพับ
+DESC : 
+EXAMPLE : 
+
+手腕
+ข้อมือ
+DESC : 
+EXAMPLE : 
+
+臂肘
+ข้อศอก
+DESC : 
+EXAMPLE : 
+
+手臂
+แขน
+DESC : 
+EXAMPLE : 
+
+上臂
+ต้นแขน
+DESC : 
+EXAMPLE : 
+
+中指
+นิ้วกลาง
+DESC : 
+EXAMPLE : 
+
+小指
+นิ้วก้อย
+DESC : 
+EXAMPLE : 
+
+食指
+นิ้วชี้
+DESC : 
+EXAMPLE : 
+
+无名指
+นิ้วนาง
+DESC : 
+EXAMPLE : 
+
+手指
+นิ้วมือ
+DESC : 
+EXAMPLE : 
+
+拇指
+นิ้วหัวแม่มือ
+DESC : 
+EXAMPLE : 
+
+指尖
+ปลายนิ้ว
+DESC : 
+EXAMPLE : 
+
+手掌
+ฝ่ามือ
+DESC : 
+EXAMPLE : 
+
+手
+มือ
+DESC : 
+EXAMPLE : 
+
+右手
+มือขวา
+DESC : 
+EXAMPLE : 
+
+左手
+มือซ้าย
+DESC : 
+EXAMPLE : 
+
+手纹
+ลายมือ
+DESC : 
+EXAMPLE : 
+
+指甲
+เล็บมือ
+DESC : 
+EXAMPLE : 
+
+生命线
+เส้นชีวิต
+DESC : 
+EXAMPLE : 
+
+智慧线
+เส้นสมอง
+DESC : 
+EXAMPLE : 
+
+感情线
+เส้นหัวใจ
+DESC : 
+EXAMPLE : 
+
+手背
+หลังมือ
+DESC : 
+EXAMPLE : 
+
+腋毛
+ขนรักแร้
+DESC : 
+EXAMPLE : 
+
+乳房
+ทรวงอก
+DESC : 
+EXAMPLE : 
+
+肛门
+ทวารหนัก
+DESC : 
+EXAMPLE : 
+
+肚子
+ท้อง
+DESC : 
+EXAMPLE : 
+
+小肚子
+ท้องน้อย
+DESC : 
+EXAMPLE : 
+
+肩膀
+บ่า
+DESC : 
+EXAMPLE : 
+
+腋窝
+รักแร้
+DESC : 
+EXAMPLE : 
+
+背部
+ส่วนหลัง
+DESC : 
+EXAMPLE : 
+
+肚脐
+สะดือ
+DESC : 
+EXAMPLE : 
+
+臀部
+สะโพก
+DESC : 
+EXAMPLE : 
+
+脊背
+สันหลัง
+DESC : 
+EXAMPLE : 
+
+胸部
+หน้าอก
+DESC : 
+EXAMPLE : 
+
+乳头
+หัวนม
+DESC : 
+EXAMPLE : 
+
+肩头
+หัวไหล่
+DESC : 
+EXAMPLE : 
+
+腰
+เอว
+DESC : 
+EXAMPLE : 
+
+头
+หัว
+DESC : 
+EXAMPLE : 
+
+头发
+ผม
+DESC : 
+EXAMPLE : 
+
+头旋
+ขวัญ
+DESC : 
+EXAMPLE : 
+
+脑
+สมอง
+DESC : 
+EXAMPLE : 
+
+头壳
+หัวกะโหลก
+DESC : 
+EXAMPLE : 
+
+面颊
+แก้ม
+DESC : 
+EXAMPLE : 
+
+太阳穴
+ขมับ
+DESC : 
+EXAMPLE : 
+
+眉毛
+ขนคิ้ว
+DESC : 
+EXAMPLE : 
+
+下巴
+คาง
+DESC : 
+EXAMPLE : 
+
+酒窝
+ลักยิ้ม
+DESC : 
+EXAMPLE : 
+
+胡子
+หนวด
+DESC : 
+EXAMPLE : 
+
+胡须
+เครา
+DESC : 
+EXAMPLE : 
+
+脸
+ใบหน้า
+DESC : 
+EXAMPLE : 
+
+面
+ใบหน้า
+DESC : 
+EXAMPLE : 
+
+前额
+หน้าผาก
+DESC : 
+EXAMPLE : 
+
+眼角膜
+แก้วตา
+DESC : 
+EXAMPLE : 
+
+睫毛
+ขนตา
+DESC : 
+EXAMPLE : 
+
+视网膜
+จอตา
+DESC : 
+EXAMPLE : 
+
+视神经
+ประสาทตา
+DESC : 
+EXAMPLE : 
+
+眼界膜
+เยื่อตา
+DESC : 
+EXAMPLE : 
+
+眼球
+ลูกตา
+DESC : 
+EXAMPLE : 
+
+眼睑
+หนังตา
+DESC : 
+EXAMPLE : 
+
+眼皮
+หนังตา
+DESC : 
+EXAMPLE : 
+
+上眼睑
+หนังตาบน
+DESC : 
+EXAMPLE : 
+
+下眼睑
+หนังตาล่าง
+DESC : 
+EXAMPLE : 
+
+耳根
+กกหู
+DESC : 
+EXAMPLE : 
+
+耳膜
+แก้วหู
+DESC : 
+EXAMPLE : 
+
+内耳
+ช่องในหู
+DESC : 
+EXAMPLE : 
+
+耳垂
+ติ่งหู
+DESC : 
+EXAMPLE : 
+
+耳郭
+ใบหู
+DESC : 
+EXAMPLE : 
+
+喉咙
+คอหอย
+DESC : 
+EXAMPLE : 
+
+脖根
+ต้นคอ
+DESC : 
+EXAMPLE : 
+
+喉结
+ลูกกระเดือก
+DESC : 
+EXAMPLE : 
+
+鼻毛
+ขนจมูก
+DESC : 
+EXAMPLE : 
+
+鼻梁
+ดั้งจมูก
+DESC : 
+EXAMPLE : 
+
+鼻腔
+โพรงจมูก
+DESC : 
+EXAMPLE : 
+
+鼻孔
+รูจมูก
+DESC : 
+EXAMPLE : 
+
+口腔
+ช่องปาก
+DESC : 
+EXAMPLE : 
+
+上腭
+เพดานปาก
+DESC : 
+EXAMPLE : 
+
+牙
+ฟัน
+DESC : 
+EXAMPLE : 
+
+齿
+ฟัน
+DESC : 
+EXAMPLE : 
+
+臼齿
+ฟันกราม
+DESC : 
+EXAMPLE : 
+
+犬齿
+ฟันเขี้ยว
+DESC : 
+EXAMPLE : 
+
+犬齿
+ฟันน้ำนม
+DESC : 
+EXAMPLE : 
+
+门牙
+ฟันหน้า
+DESC : 
+EXAMPLE : 
+
+嘴角
+มุมปาก
+DESC : 
+EXAMPLE : 
+
+嘴唇
+ริมฝีปาก
+DESC : 
+EXAMPLE : 
+
+牙根
+รากฟัน
+DESC : 
+EXAMPLE : 
+
+齿龈
+เหงือก
+DESC : 
+EXAMPLE : 
+
+舍
+ลิ้น
+DESC : 
+EXAMPLE : 
+
+曼谷
+กรุงเทพมหานคร
+DESC : 
+EXAMPLE : 
+
+甲米
+กระบี่
+DESC : 
+EXAMPLE : 
+
+北碧
+กาญจนบุรี
+DESC : 
+EXAMPLE : 
+
+胶拉信
+กาฬสินธุ์
+DESC : 
+EXAMPLE : 
+
+甘烹碧
+กำแพงเพชร
+DESC : 
+EXAMPLE : 
+
+孔敬
+ขอนแก่น
+DESC : 
+EXAMPLE : 
+
+尖竹汶
+จันทบุรี
+DESC : 
+EXAMPLE : 
+
+北柳
+ฉะเชิงเทรา
+DESC : 
+EXAMPLE : 
+
+春武里
+ชลบุรี
+DESC : 
+EXAMPLE : 
+
+猜纳
+ชัยนาท
+DESC : 
+EXAMPLE : 
+
+猜也奔
+ชัยภูมิ
+DESC : 
+EXAMPLE : 
+
+春蓬
+ชุมพร
+DESC : 
+EXAMPLE : 
+
+昌莱
+เชียงราย
+DESC : 
+EXAMPLE : 
+
+清迈
+เชียงใหม่
+DESC : 
+EXAMPLE : 
+
+董里
+ตรัง
+DESC : 
+EXAMPLE : 
+
+桐艾
+ตราด
+DESC : 
+EXAMPLE : 
+
+达
+ตาก
+DESC : 
+EXAMPLE : 
+
+那空那育
+นครนายก
+DESC : 
+EXAMPLE : 
+
+佛统
+นครปฐม
+DESC : 
+EXAMPLE : 
+
+那空帕农
+นครพนม
+DESC : 
+EXAMPLE : 
+
+呵叻
+นคราชสีมา
+DESC : 
+EXAMPLE : 
+
+洛坤
+ นครศรีธรรมราช
+DESC : 
+EXAMPLE : 
+
+那空沙旺
+นครสวรรค์
+DESC : 
+EXAMPLE : 
+
+暖武里
+นนทบุรี
+DESC : 
+EXAMPLE : 
+
+陶公
+นราธิวาส
+DESC : 
+EXAMPLE : 
+
+难
+น่าน
+DESC : 
+EXAMPLE : 
+
+武里喃
+บุรีรัมย์
+DESC : 
+EXAMPLE : 
+
+巴吞他尼
+ปทุมธานี
+DESC : 
+EXAMPLE : 
+
+巴蜀
+ประจวบคีรีขันธ์
+DESC : 
+EXAMPLE : 
+
+巴真武里
+ปราจีนบุรี
+DESC : 
+EXAMPLE : 
+
+北大年
+ปัตตานี
+DESC : 
+EXAMPLE : 
+
+大城
+พระนครศรีอยุธยา
+DESC : 
+EXAMPLE : 
+
+碧瑶
+พะเยา
+DESC : 
+EXAMPLE : 
+
+攀牙
+พังงา
+DESC : 
+EXAMPLE : 
+
+博他仑
+พัทลุง
+DESC : 
+EXAMPLE : 
+
+披集
+พิจิตร
+DESC : 
+EXAMPLE : 
+
+彭世洛
+พิษณุโลก
+DESC : 
+EXAMPLE : 
+
+佛丕
+เพชรบุรี
+DESC : 
+EXAMPLE : 
+
+碧差汶
+เพชรบูรณ์
+DESC : 
+EXAMPLE : 
+
+帕
+แพร่
+DESC : 
+EXAMPLE : 
+
+普吉
+ภูเก็ต
+DESC : 
+EXAMPLE : 
+
+吗哈沙拉堪
+มหาสารคาม
+DESC : 
+EXAMPLE : 
+
+莫拉限
+มุกดาหาร
+DESC : 
+EXAMPLE : 
+
+夜丰颂
+แม่ฮ่องสอน
+DESC : 
+EXAMPLE : 
+
+益梭通
+ยโสธร
+DESC : 
+EXAMPLE : 
+
+惹拉
+ยะลา
+DESC : 
+EXAMPLE : 
+
+黎逸
+ร้อยเอ็ด
+DESC : 
+EXAMPLE : 
+
+拉农
+ระนอง
+DESC : 
+EXAMPLE : 
+
+罗勇
+ระยอง
+DESC : 
+EXAMPLE : 
+
+叻丕
+ราชบุรี
+DESC : 
+EXAMPLE : 
+
+华富里
+ลพบุรี
+DESC : 
+EXAMPLE : 
+
+喃邦
+ลำปาง
+DESC : 
+EXAMPLE : 
+
+喃奔
+ลำพูน
+DESC : 
+EXAMPLE : 
+
+黎
+เลย
+DESC : 
+EXAMPLE : 
+
+四色菊
+ศรีสะเกษ
+DESC : 
+EXAMPLE : 
+
+沙功那空
+สกลนคร
+DESC : 
+EXAMPLE : 
+
+宋卡
+สงขลา
+DESC : 
+EXAMPLE : 
+
+沙敦
+สตูล
+DESC : 
+EXAMPLE : 
+
+北榄
+สมุทรปราการ
+DESC : 
+EXAMPLE : 
+
+夜功
+สมุทรสงคราม
+DESC : 
+EXAMPLE : 
+
+龙仔厝
+สมุทรสาคร
+DESC : 
+EXAMPLE : 
+
+萨缴
+สระแก้ว
+DESC : 
+EXAMPLE : 
+
+北标
+สระบุรี
+DESC : 
+EXAMPLE : 
+
+信武里
+สิงห์บุรี
+DESC : 
+EXAMPLE : 
+
+素可泰
+สุโขทัย
+DESC : 
+EXAMPLE : 
+
+素攀
+สุพรรณบุรี
+DESC : 
+EXAMPLE : 
+
+万仑
+สุราษฎร์ธานี
+DESC : 
+EXAMPLE : 
+
+素辇
+สุรินทร์
+DESC : 
+EXAMPLE : 
+
+廊开
+หนองคาย
+DESC : 
+EXAMPLE : 
+
+廊磨南蒲
+หนองบัวลำภู
+DESC : 
+EXAMPLE : 
+
+红统
+อ่างทอง
+DESC : 
+EXAMPLE : 
+
+庵纳乍能
+อำนาจเจริญ
+DESC : 
+EXAMPLE : 
+
+乌隆
+อุดรธานี
+DESC : 
+EXAMPLE : 
+
+程逸
+อุตรดิตถ์
+DESC : 
+EXAMPLE : 
+
+乌泰他尼
+อุทัยธานี
+DESC : 
+EXAMPLE : 
+
+乌汶
+อุบลราชธานี
+DESC : 
+EXAMPLE : 
+
+腋毛
+ขนรักแร้
+DESC : 
+EXAMPLE : 
+
+乳房
+ทรวงอก
+DESC : 
+EXAMPLE : 
+
+肛门
+ทวารหนัก
+DESC : 
+EXAMPLE : 
+
+肚子
+ท้อง
+DESC : 
+EXAMPLE : 
+
+小肚子
+ท้องน้อย
+DESC : 
+EXAMPLE : 
+
+肩膀
+บ่า
+DESC : 
+EXAMPLE : 
+
+腋窝
+รักแร้
+DESC : 
+EXAMPLE : 
+
+背部
+ส่วนหลัง
+DESC : 
+EXAMPLE : 
+
+肚脐
+สะดือ
+DESC : 
+EXAMPLE : 
+
+臀部
+สะโพก
+DESC : 
+EXAMPLE : 
+
+脊背
+สันหลัง
+DESC : 
+EXAMPLE : 
+
+胸部
+หน้าอก
+DESC : 
+EXAMPLE : 
+
+乳头
+หัวนม
+DESC : 
+EXAMPLE : 
+
+肩头
+หัวไหล่
+DESC : 
+EXAMPLE : 
+
+腰
+เอว
+DESC : 
+EXAMPLE : 
+
+头
+หัว
+DESC : 
+EXAMPLE : 
+
+头发
+ผม
+DESC : 
+EXAMPLE : 
+
+头旋
+ขวัญ
+DESC : 
+EXAMPLE : 
+
+脑
+สมอง
+DESC : 
+EXAMPLE : 
+
+头壳
+หัวกะโหลก
+DESC : 
+EXAMPLE : 
+
+面颊
+แก้ม
+DESC : 
+EXAMPLE : 
+
+太阳穴
+ขมับ
+DESC : 
+EXAMPLE : 
+
+上帝
+พระเจ้า
+DESC : 
+EXAMPLE : 
+
+书
+เขียน
+DESC : 
+EXAMPLE : 
+
+安排
+จัดให้เป็นระเบียบ
+DESC : 
+EXAMPLE : 
+
+散
+แยก
+DESC : 
+EXAMPLE : 
+
+？
+?
+DESC : 
+EXAMPLE : 
+
+你&好&吗
+คุณสบายดีไหม
+DESC : 
+EXAMPLE : 
+
+苹果
+แอปเปิ้ล
+DESC : 
+EXAMPLE : 
+
+时候
+เวลา
+DESC : 
+EXAMPLE : 
+
+满怀
+จิตใจที่เต็มไปด้วย
+DESC : 
+EXAMPLE : 
+
+羡慕
+อิจฉา
+DESC : 
+EXAMPLE : 
+
+母亲
+แม่
+DESC : 
+EXAMPLE : 
+
+习惯
+คุ้นเคย
+DESC : 
+EXAMPLE : 
+
+开会
+ประชุม
+DESC
+EX
+
+坐在
+นั่งอยู่
+DESC
+EX
+
+帽子
+หมวก
+DESC
+EX
+
+街上
+ถนน
+D
+E
+
+遇到
+พบ
+D
+E
+
+工业
+อุตสาหกรรม
+D
+E
+
+好吗
+สบายดีไหม
+D
+E
+
+美好
+ยอดเยี่ยม
+D
+E
+
+你好
+สวัสดี
+D
+E
+
+旁边
+ด้านข้าง
+D
+E
+
+一杯
+หนึ่งแก้ว
+D:
+E:
+
+在哪里
+อยู่ที่ไหน
+D :
+E :
+
+日语
+ภาษาญี่ปุ่น
+DESC : 
+EXAMPLE :
+------------------NEW RULES uses with preordering ------------------
+的/OF
+ของ
+DESC : 
+EXAMPLE :
+
+差 相当
+แย่มาก
+DESC : 
+EXAMPLE :
+
+走 过去
+เดิน ไป
+DESC : 
+EXAMPLE :
+
+招手
+โบกมือ
+DESC : 
+EXAMPLE :
+
+的/DEL
+
+DESC
+EXAMPLE
+
+白色
+สีขาว
+DESC
+EXAMPLE
+
+。
+
+DESC
+EXAMPLE
+
+赶往
+รีบไปยัง
+DESC
+EXAMPLE
+
+匆匆
+อย่างเร่งรีบ
+DESC
+EXAMPLE
+
+机场
+สนามบิน
+DESC
+EXAMPLE
+
+看看
+ดู
+DESC
+EXAMPLE
+
+名胜
+สถานที่สำคัญ
+DESC
+EXAMPLE
+
+伦敦
+ลอนดอน
+DESC
+EXAMPLE
+
+上@P
+บน
+DESC
+EXAMPLE
+
+桌子
+โต๊ะ
+DESC
+EXAMPLE
+
+上车
+ขึ้นรถ
+DESC
+EXAMPLE
+
+被
+ถูก/โดน
+DESC
+EXAMPLE
+
+摧毁
+ทำลาย
+DESC
+EXAMPLE
+
+彻底
+พังพินาศ
+DESC
+EXAMPLE
+
+摧毁 了 彻底
+ทำลายจนหมดสิ้น
+DESC
+EXAMPLE
+
+壁垒
+ป้อมปราการ
+DESC
+EXAMPLE
+
+火车
+รถไฟ
+DESC
+EXAMPLE
+
+到达
+มาถึง
+DESC
+EXAMPLE
+
+及时
+ทันเวลา
+DESC
+EXAMPLE
+
+穿着
+สวม
+DESC
+EXAMPLE
+
+西装
+สูท
+DESC
+EXAMPLE
+
+黑
+ดำ
+DESC
+EXAMPLE
+
+一 $CL(套,西装)
+ชุดหนึ่ง
+DESC
+EXAMPLE
+
+脉搏
+ชีพจร
+DESC
+EXAMPLE
+
+跳
+เต้น
+DESC
+EXAMPLE
+
+很慢
+ช้ามาก
+DESC
+EXAMPLE
+
+得/DEL
+
+DESC
+EXAMPLE
+
+预定
+จอง
+1
+2
+
+房间
+ห้อง
+1
+2
+
+$CL(个,房间)
+ห้อง
+1
+2
+
+爱人
+คนรัก
+1
+2
+
+会 做饭 很
+ทำอาหารเก่งมาก
+1
+2
+
+做饭
+ทำอาหาร
+1
+2
+
+英语
+ภาษาอังกฤษ
+1
+2
+

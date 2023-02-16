@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+.DS_Store
 checkpoints/*.pt
 
 # Distribution / packaging
